@@ -1,7 +1,7 @@
 ---
-title: Pandas
+title: Testikirja
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://testikirja.netlify.app
 tags:
   - Hugo
   - Wowchemy
