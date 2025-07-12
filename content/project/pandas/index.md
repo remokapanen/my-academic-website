@@ -1,13 +1,13 @@
 ---
-title: Testikirja
-date: 2023-10-26
+title: Lauseiden louhinta (Sentence mining)
+date: 2025-07-12
 external_link: https://testikirja.netlify.app
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Kielet
+  - Opiskelu
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Miten kerätä immersiomateriaalista suoraan Ankiin sanoja/lauseita
+
 
 <!--more-->

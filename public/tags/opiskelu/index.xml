@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opiskelu | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/opiskelu/</link>
+      <atom:link href="http://localhost:1313/tags/opiskelu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Opiskelu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Opiskelu</title>
+      <link>http://localhost:1313/tags/opiskelu/</link>
+    </image>
+    
+    <item>
+      <title>Lauseiden louhinta (Sentence mining)</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Miten kerätä immersiomateriaalista suoraan Ankiin sanoja/lauseita&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
