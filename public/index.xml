@@ -80,6 +80,10 @@
 &lt;li&gt;&lt;strong&gt;Kulttuuriset erot&lt;/strong&gt;: Epäsuora viestintä kielen ytimessä&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;2-kirjoitusjärjestelmät&#34;&gt;2. Kirjoitusjärjestelmät&lt;/h2&gt;
+&lt;p&gt;Opiskele merkit seuraavassa järjestyksessä&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Luovu nyt heti alkuvaiheessa romaji-merkeistä; tästä lähtien et enää vaadi meidän aakkosia japaninkielisten sanojen lukemiseen&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;hiragana-ひらがな&#34;&gt;Hiragana (ひらがな)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;46 merkkiä&lt;/strong&gt; perusäänteille&lt;/li&gt;
@@ -379,7 +383,7 @@
 
 
 
-&lt;div id=&#34;chart-235694178&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-618934527&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -397,7 +401,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-235694178&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-618934527&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

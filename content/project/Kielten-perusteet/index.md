@@ -20,6 +20,10 @@ Japanin kielen opiskelu voi tuntua pelottavalta, mutta oikealla lähestymistaval
 
 ## 2. Kirjoitusjärjestelmät
 
+Opiskele merkit seuraavassa järjestyksessä 
+
+- Luovu nyt heti alkuvaiheessa romaji-merkeistä; tästä lähtien et enää vaadi meidän aakkosia japaninkielisten sanojen lukemiseen 
+
 ### Hiragana (ひらがな)
 - **46 merkkiä** perusäänteille
 - **Käyttö**: Japanilaiset sanat, kieliopin osat
