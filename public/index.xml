@@ -70,7 +70,8 @@
       <link>http://localhost:1313/project/kielten-perusteet/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/kielten-perusteet/</guid>
-      <description>&lt;p&gt;Lyhyt opas japanin opintojen aloittamiseen&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Lyhyt opas japanin opintojen aloittamiseen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Jos et tiedä, mikä [Anki] on, suositellen perehtymään aiheeseen ja opettelemaan sen käytön, sillä suuri osa japanin opiskelusta kytkeytyy kyseisen muistikorttisovelluksen käyttämiseen.&lt;/p&gt;
 &lt;h2 id=&#34;1-perusteet-ja-motivaatio&#34;&gt;1. Perusteet ja motivaatio&lt;/h2&gt;
 &lt;p&gt;Japanin kielen opiskelu voi tuntua pelottavalta, mutta oikealla lähestymistavalla se on erittäin palkitsevaa. Aloitetaan perusteista:&lt;/p&gt;
 &lt;h3 id=&#34;mitä-odottaa&#34;&gt;Mitä odottaa?&lt;/h3&gt;
@@ -98,7 +99,7 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;kanji-漢字&#34;&gt;Kanji (漢字)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Tuhansia merkkejä&lt;/strong&gt; ns. Jōyō kanji eli yleisessä käytössä olevassa merkkejä on 2 136 (oikeasti yleisessä käytössä on enemmän kuin tällä listalla)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tuhansia merkkejä&lt;/strong&gt;: Yleisessä käytössä (ns. Jōyō kanji) olevia merkkejä on 2 136 (oikeasti yleisessä käytössä on enemmän kuin tällä listalla)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Käyttö&lt;/strong&gt;: Substantiivit, adjektiivit, verbien juuret&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Oppimisstrategia&lt;/strong&gt;: Opi tunnistamaan aina uusien sanojen yhteydessä, ei yleensä tarvitse yksittäisten merkkien ympäripyöreää merkitystä yrittää opetella
 &lt;ul&gt;
@@ -139,19 +140,19 @@
 &lt;h2 id=&#34;4-immersio&#34;&gt;4. Immersio&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Natiivimateriaaleihin&lt;/strong&gt; hyppääminen kannattaa tehdä heti kuin tuntuu, että kaikki ei kuulosta/näytä heprealta, sillä itseä innostavien kirjojen/sarjojen kuluttaminen on paljon innostavampaa kuin oppikirjoista pänttääminen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Natiivimateriaaleihin&lt;/strong&gt; hyppääminen kannattaa tehdä heti kun tuntuu, että kaikki ei kuulosta/näytä heprealta, sillä itseä innostavien kirjojen/sarjojen kuluttaminen on paljon innostavampaa kuin oppikirjoista pänttääminen.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Suurin osa suomalaisista osaa puhua englantia niin hyvin juuri sen takia, että he ovat kuluttaneet runsaasti englanninkielistä materiaalia ja imuroineet englantia luonnollisesti sitä myötä.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Immersio&lt;/strong&gt; tarkoittaa käytännössä sitä, että kuluttaa natiivimateriaalia. Sarjoissa/muissa videoissa saa käyttää japaninkielisiä tekstityksiä tai voi katsoa niitä täysin ilman mitään tekstityksiä. Voi lukea japaninkielisiä kirjoja, uutisia, selata keskustelupalstoja yms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Immersio&lt;/strong&gt; tarkoittaa käytännössä sitä, että kuluttaa natiivimateriaalia. Sarjoissa/muissa videoissa saa käyttää japaninkielisiä tekstityksiä tai voi katsoa niitä täysin ilman mitään tekstityksiä. Voi lukea japaninkielisiä kirjoja ja uutisia, selata keskustelupalstoja yms.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Mitä enemmän natiivimateriaalia kulutat, sitä nopeammin opit.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Louhinta&lt;/strong&gt;: Immersiomateriaalista oppimiaan sanoja voi siirtää Ankiin (muistikorttisovellus), jota kautta voi tehostaa oppimistaan huomattavasti. Tätä prosessia, jossa immersiomateriaalin sanoja/lauseita siirretään Ankiin, kutsutaan &lt;a href=&#34;https://louhinta.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;louhinnaksi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Louhinta&lt;/strong&gt;: Immersiomateriaalista oppimiaan sanoja voi siirtää Ankiin, jota kautta voi tehostaa oppimistaan huomattavasti. Tätä prosessia, jossa immersiomateriaalin sanoja/lauseita siirretään Ankiin, kutsutaan &lt;a href=&#34;https://louhinta.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;louhinnaksi&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
@@ -383,7 +384,7 @@
 
 
 
-&lt;div id=&#34;chart-618934527&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-638174259&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -401,7 +402,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-618934527&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-638174259&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -6,9 +6,11 @@ tags:
   - Kielet
 ---
 
-Lyhyt opas japanin opintojen aloittamiseen
+*Lyhyt opas japanin opintojen aloittamiseen*
 
 <!--more-->
+
+Jos et tiedä, mikä [Anki] on, suositellen perehtymään aiheeseen ja opettelemaan sen käytön, sillä suuri osa japanin opiskelusta kytkeytyy kyseisen muistikorttisovelluksen käyttämiseen. 
 
 ## 1. Perusteet ja motivaatio
 Japanin kielen opiskelu voi tuntua pelottavalta, mutta oikealla lähestymistavalla se on erittäin palkitsevaa. Aloitetaan perusteista:
@@ -66,15 +68,15 @@ Jos sanoja opiskellessa huomaat, että eri kanji-merkkien erottaminen toisistaan
 
 ## 4. Immersio
 
-- **Natiivimateriaaleihin** hyppääminen kannattaa tehdä heti kuin tuntuu, että kaikki ei kuulosta/näytä heprealta, sillä itseä innostavien kirjojen/sarjojen kuluttaminen on paljon innostavampaa kuin oppikirjoista pänttääminen. 
+- **Natiivimateriaaleihin** hyppääminen kannattaa tehdä heti kun tuntuu, että kaikki ei kuulosta/näytä heprealta, sillä itseä innostavien kirjojen/sarjojen kuluttaminen on paljon innostavampaa kuin oppikirjoista pänttääminen. 
 
     - Suurin osa suomalaisista osaa puhua englantia niin hyvin juuri sen takia, että he ovat kuluttaneet runsaasti englanninkielistä materiaalia ja imuroineet englantia luonnollisesti sitä myötä. 
 
-- **Immersio** tarkoittaa käytännössä sitä, että kuluttaa natiivimateriaalia. Sarjoissa/muissa videoissa saa käyttää japaninkielisiä tekstityksiä tai voi katsoa niitä täysin ilman mitään tekstityksiä. Voi lukea japaninkielisiä kirjoja, uutisia, selata keskustelupalstoja yms. 
+- **Immersio** tarkoittaa käytännössä sitä, että kuluttaa natiivimateriaalia. Sarjoissa/muissa videoissa saa käyttää japaninkielisiä tekstityksiä tai voi katsoa niitä täysin ilman mitään tekstityksiä. Voi lukea japaninkielisiä kirjoja ja uutisia, selata keskustelupalstoja yms. 
 
     - Mitä enemmän natiivimateriaalia kulutat, sitä nopeammin opit. 
 
-- **Louhinta**: Immersiomateriaalista oppimiaan sanoja voi siirtää Ankiin (muistikorttisovellus), jota kautta voi tehostaa oppimistaan huomattavasti. Tätä prosessia, jossa immersiomateriaalin sanoja/lauseita siirretään Ankiin, kutsutaan [louhinnaksi](https://louhinta.netlify.app/)
+- **Louhinta**: Immersiomateriaalista oppimiaan sanoja voi siirtää Ankiin, jota kautta voi tehostaa oppimistaan huomattavasti. Tätä prosessia, jossa immersiomateriaalin sanoja/lauseita siirretään Ankiin, kutsutaan [louhinnaksi](https://louhinta.netlify.app/)
 
 {{% callout note %}}
 **Loppuelämä**: Käytännössä minkä tahansa kielen opiskelemisen tavoite tulisi olla se, että "opiskeluksi" riittää natiivimateriaalien kuluttaminen. Kunhan ylittää alkuvaikeudet (n. >1000 yleisintä sanaa ja peruskielioppi), niin pystyy hyvin jatkaa oppimista paljon kiinnostavammista lähteistä.
