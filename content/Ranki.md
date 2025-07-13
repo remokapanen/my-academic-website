@@ -34,8 +34,9 @@ sections:
       text: |
         ## Pakan lataaminen ja käyttö
 
-        Tarkat ohjeet Rankin lataamiseen ja sen käyttöön löytyvät alla olevasta GitBookista. Aiheesta löytyy myös opetusvideo:
+        Tarkat ohjeet Rankin lataamiseen ja sen käyttöön löytyvät alla olevasta GitBookista (TULOSSA)
 
+        Aiheesta löytyy myös [opetusvideo](https://youtu.be/XwG-Fju94tU?si=BmxbPRwGbzqZb5PK)
     design:
       columns: '1'
       spacing:

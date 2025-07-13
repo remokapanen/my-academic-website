@@ -20,7 +20,9 @@ sections:
       text: |
         Oppikirja, opetusvideot ja niiden pohjalta rakennetut Anki-kortit (Rankin sisällä), jotka kattavat Turun preklinikassa käytävän patologian kurssin.
 
-        Materiaali on suunniteltu toimimaan täydellisenä korvikkeena luennoille ja luentodioille. Halutessaan voi kuitenkin myös luennoilla käydä ja luentodioja lukea, mutta en usko sen olevan tarpeellista. Suosittelen tosin hyödyntämään Moodlesta löytyvää mikroskopointimateriaalia (tästäkin löytyy valmiit kortit Rankista). 
+        Materiaali on suunniteltu toimimaan täydellisenä korvikkeena luennoille ja luentodioille. Halutessaan voi kuitenkin myös luennoilla käydä ja luentodioja lukea, mutta en usko sen olevan tarpeellista. 
+        
+        - Suosittelen tosin hyödyntämään Moodlesta löytyvää mikroskopointimateriaalia (tästäkin löytyy valmiit kortit Rankista). 
     design:
       columns: '1'
       spacing:
@@ -38,6 +40,8 @@ sections:
         
         Suosittelen käymään kappaleet järjestyksessä, ainakin kappaleet 1-3 ennen muita. Ne käsittelevät patologian perusperiaatteita, loput kappaleet enemmänkin tiettyihin elinjärjestelmiin liittyvää patologiaa.
 
+        Tällä hetkellä materiaali on pääosin valmis PATO1:n osalta (joitain osioita pitää korjailla), PATO2:n osiota rakennetaan hiljalleen. 
+    
 
     design:
       columns: '1'
@@ -54,7 +58,7 @@ sections:
       text: |
         ## Koko oppikirja
 
-        [📖 Lataa koko Patologian perusteet -oppikirja (PDF)](uploads/patologian-perusteet-koko-kirja.pdf)
+        [📖 Lataa koko Patologian perusteet -oppikirja (PDF); (TULOSSA)](/uploads/patologian-perusteet-koko-kirja.pdf)
 
         *Koko oppikirja sisältää kaikki 19 kappaletta ja niiden kuvat yhdessä tiedostossa.*
 
@@ -72,7 +76,7 @@ sections:
       subtitle: 'Myös linkit opetusvideoihin'
       text: |
         ## Kappale 1: Sopeutuminen, soluvaurio ja solukuolema
-        [📄 Lataa kappale 1 (PDF)](uploads/patologian-perusteet-kappale-1.pdf)
+        [📄 Lataa kappale 1 (PDF)](/uploads/patologian-perusteet-kappale-1.pdf)
         
         ### Opetusvideot kappaleelle 1:
         - [1.1 Sopeutumismuutokset](https://youtu.be/faws5JQoiHI?si=4lW_7oNi-AWCN_w_)
@@ -84,7 +88,7 @@ sections:
         ---
 
         ## Kappale 2: Tulehdus ja paraneminen
-        [📄 Lataa kappale 2 (PDF)](uploads/patologian-perusteet-kappale-2.pdf)
+        [📄 Lataa kappale 2 (PDF)](/uploads/patologian-perusteet-kappale-2.pdf)
         
         ### Opetusvideot kappaleelle 2:
         - [2.1 Akuutti inflammaatio ja paraneminen](https://youtu.be/2_Lk1xWy4Os?si=PwsdH8NdbbD2m1QE)
@@ -94,7 +98,7 @@ sections:
         ---
 
         ## Kappale 3:Neoplasia
-        [📄 Lataa kappale 3 (PDF)](uploads/patologian-perusteet-kappale-3.pdf)
+        [📄 Lataa kappale 3 (PDF)](/uploads/patologian-perusteet-kappale-3.pdf)
         
         ### Opetusvideot kappaleelle 3:
         - [3.1 Neoplasian perusteet](https://youtu.be/wIxeIrstfe4?si=UodKmlWUOmwk7Yzk)
@@ -105,7 +109,7 @@ sections:
         ---
 
         ## Kappale 4: Hemodynamiikka ja sen häiriöt
-        [📄 Lataa kappale 4 (PDF)](uploads/patologian-perusteet-kappale-4.pdf)
+        [📄 Lataa kappale 4 (PDF); (TULOSSA)](/uploads/patologian-perusteet-kappale-4.pdf)
         
         ### Opetusvideot kappaleelle 4:
         - [4.1 Hydrostaattinen ja onkoottinen paine](https://youtu.be/GMnikLOid74?si=fA1pVwoeDXNNCyT4)
@@ -118,7 +122,7 @@ sections:
         ---
 
         ## Kappale 5: Anemiat
-        [📄 Lataa kappale 5 (PDF)](uploads/patologian-perusteet-kappale-5.pdf)
+        [📄 Lataa kappale 5 (PDF); (TULOSSA)](/uploads/patologian-perusteet-kappale-5.pdf)
         
         ### Opetusvideot kappaleelle 5:
         - [5.1 Anemia & 5.2 Mikrosytääriset anemiat](https://youtu.be/fXPPAjetENU?si=3Gtv4-DbV0x2ksVN)
@@ -127,7 +131,7 @@ sections:
         ---
 
         ## Kappale 6: Valkosolujen häiriöt
-        [📄 Lataa kappale 6 (PDF)](uploads/patologian-perusteet-kappale-6.pdf)
+        [📄 Lataa kappale 6 (PDF); (TULOSSA)](/uploads/patologian-perusteet-kappale-6.pdf)
         
         ### Opetusvideot kappaleelle 6:
         - [6.1 Leukopenia ja leukosytoosi](https://youtu.be/6Fm_dlNF1SI?si=J9rqO7BSTK7IABkd)
@@ -141,7 +145,7 @@ sections:
         ---
 
         ## Kappale 7: Verisuonipatologia
-        [📄 Lataa kappale 7 (PDF)](uploads/patologian-perusteet-kappale-7.pdf)
+        [📄 Lataa kappale 7 (PDF); (TULOSSA)](/uploads/patologian-perusteet-kappale-7.pdf)
         
         ### Opetusvideot kappaleelle 7:
         - [7.1 Hypertensio](https://youtu.be/crLH_wRG6W4?si=0bk6i7MR4bEeiw65)
@@ -153,7 +157,7 @@ sections:
         ---
 
         ## Kappale 8: Sydänpatologia
-        [📄 Lataa kappale 8 (PDF)](uploads/patologian-perusteet-kappale-8.pdf)
+        [📄 Lataa kappale 8 (PDF); (TULOSSA)](/uploads/patologian-perusteet-kappale-8.pdf)
         
         ### Opetusvideot kappaleelle 8:
         - [8.1 Iskeeminen sydänsairaus](https://youtu.be/G09lO3ct3PE?si=7SdwkjTcKdxE5R_l)
@@ -167,7 +171,7 @@ sections:
         ---
 
         ## Kappale 9: Hengitystiepatologia
-        [📄 Lataa kappale 9 (PDF)](uploads/patologian-perusteet-kappale-9.pdf)
+        [📄 Lataa kappale 9 (PDF); (TULOSSA)](/uploads/patologian-perusteet-kappale-9.pdf)
         
         ### Opetusvideot kappaleelle 9:
         - [9.1 Nenän ja nenänielun sairaudet](https://youtu.be/-C5KaHQE91k?si=dQ8tiB7k6lmOPhmD)
@@ -182,7 +186,7 @@ sections:
         ---
 
         ## Kappale 10: Ruuansulatuskanavan patologia
-        [📄 Lataa kappale 10 (PDF)](uploads/patologian-perusteet-kappale-10.pdf)
+        [📄 Lataa kappale 10 (PDF); (TULOSSA)](/uploads/patologian-perusteet-kappale-10.pdf)
         
         ### Opetusvideot kappaleelle 10:
         - [10.1 Suuontelon sairaudet](https://youtu.be/JLrqKFhG3XE?si=oySsBuu62HmnxxiH)
