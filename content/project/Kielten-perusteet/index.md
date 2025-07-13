@@ -35,7 +35,7 @@ Opiskele merkit seuraavassa järjestyksessä
 - **Oppimisstrategia**: Kts. [JapanesePod101](https://youtu.be/s6DKRgtVLGA?si=ZFI4TJ2DyECSBWj4), jonka jälkeen [kertaa](https://realkana.com/katakana) niitä tarpeen mukaan
 
 ### Kanji (漢字)
-- **Tuhansia merkkejä** ns. Jōyō kanji eli yleisessä käytössä olevassa merkkejä on 2 136 (oikeasti yleisessä käytössä on enemmän kuin tällä listalla)
+- **Tuhansia merkkejä**: Yleisessä käytössä (ns. Jōyō kanji) olevia merkkejä on 2 136 (oikeasti yleisessä käytössä on enemmän kuin tällä listalla)
 - **Käyttö**: Substantiivit, adjektiivit, verbien juuret
 - **Oppimisstrategia**: Opi tunnistamaan aina uusien sanojen yhteydessä, ei yleensä tarvitse yksittäisten merkkien ympäripyöreää merkitystä yrittää opetella 
     - Lataa [Kaishi 1.5k](https://ankiweb.net/shared/info/1196762551), joka on yleisimmät 1,5 tuhatta sanaa käsittävä Anki-pakka. 
