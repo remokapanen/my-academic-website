@@ -22,7 +22,9 @@ sections:
 
         Materiaali on suunniteltu toimimaan täydellisenä korvikkeena luennoille ja luentodioille. Halutessaan voi kuitenkin myös luennoilla käydä ja luentodioja lukea, mutta en usko sen olevan tarpeellista. 
         
-        - Suosittelen tosin hyödyntämään Moodlesta löytyvää mikroskopointimateriaalia (tästäkin löytyy valmiit kortit Rankista). 
+        {{% callout note %}}
+        **Suositus**: Suosittelen tosin hyödyntämään Moodlesta löytyvää mikroskopointimateriaalia (tästäkin löytyy valmiit kortit Rankista).
+        {{% /callout %}} 
     design:
       columns: '1'
       spacing:

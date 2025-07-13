@@ -70,7 +70,100 @@
       <link>http://localhost:1313/project/kielten-perusteet/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/kielten-perusteet/</guid>
-      <description>&lt;p&gt;Lyhyt opas japanin opintojen aloittamiseen ja vinkkejä edistyneillekin osaajille&lt;/p&gt;</description>
+      <description>&lt;p&gt;Lyhyt opas japanin opintojen aloittamiseen&lt;/p&gt;
+&lt;h2 id=&#34;1-perusteet-ja-motivaatio&#34;&gt;1. Perusteet ja motivaatio&lt;/h2&gt;
+&lt;p&gt;Japanin kielen opiskelu voi tuntua pelottavalta, mutta oikealla lähestymistavalla se on erittäin palkitsevaa. Aloitetaan perusteista:&lt;/p&gt;
+&lt;h3 id=&#34;mitä-odottaa&#34;&gt;Mitä odottaa?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kirjoitusjärjestelmät&lt;/strong&gt;: Hiragana, katakana ja kanji&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kielioppi&lt;/strong&gt;: Eri kuin indoeurooppalaiset kielet&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kulttuuriset erot&lt;/strong&gt;: Epäsuora viestintä kielen ytimessä&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-kirjoitusjärjestelmät&#34;&gt;2. Kirjoitusjärjestelmät&lt;/h2&gt;
+&lt;h3 id=&#34;hiragana-ひらがな&#34;&gt;Hiragana (ひらがな)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;46 merkkiä&lt;/strong&gt; perusäänteille&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Käyttö&lt;/strong&gt;: Japanilaiset sanat, kieliopin osat&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oppimisstrategia&lt;/strong&gt;: Kts. &lt;a href=&#34;https://youtu.be/6p9Il_j0zjc?si=z3-7K9JqVZS3A-5J&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JapanesePod101&lt;/a&gt;, jonka jälkeen &lt;a href=&#34;https://realkana.com/hiragana&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kertaa&lt;/a&gt; niitä tarpeen mukaan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;katakana-カタカナ&#34;&gt;Katakana (カタカナ)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;46 merkkiä&lt;/strong&gt; lainasanoille&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Käyttö&lt;/strong&gt;: Ulkomaiset sanat, ääniefektit&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oppimisstrategia&lt;/strong&gt;: Kts. &lt;a href=&#34;https://youtu.be/s6DKRgtVLGA?si=ZFI4TJ2DyECSBWj4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JapanesePod101&lt;/a&gt;, jonka jälkeen &lt;a href=&#34;https://realkana.com/katakana&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kertaa&lt;/a&gt; niitä tarpeen mukaan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;kanji-漢字&#34;&gt;Kanji (漢字)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tuhansia merkkejä&lt;/strong&gt; ns. Jōyō kanji eli yleisessä käytössä olevassa merkkejä on 2 136 (oikeasti yleisessä käytössä on enemmän kuin tällä listalla)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Käyttö&lt;/strong&gt;: Substantiivit, adjektiivit, verbien juuret&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oppimisstrategia&lt;/strong&gt;: Opi tunnistamaan aina uusien sanojen yhteydessä, ei yleensä tarvitse yksittäisten merkkien ympäripyöreää merkitystä yrittää opetella
+&lt;ul&gt;
+&lt;li&gt;Lataa &lt;a href=&#34;https://ankiweb.net/shared/info/1196762551&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaishi 1.5k&lt;/a&gt;, joka on yleisimmät 1,5 tuhatta sanaa käsittävä Anki-pakka.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;p&gt;&lt;strong&gt;Henkilökohtainen kokemus&lt;/strong&gt;: Itse tosin opiskelin kaikki Jōyō kanjit &lt;a href=&#34;https://en.wikipedia.org/wiki/Remembering_the_Kanji&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RTK:n&lt;/a&gt; perusteella rakennetun &lt;a href=&#34;https://ankiweb.net/shared/info/2009196675&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anki-pakan&lt;/a&gt; avulla ennen kuin aloin &lt;a href=&#34;https://louhinta.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;louhia&lt;/a&gt; sanoja immersiomateriaalista. Suurin osa ihmisistä ei kuitenkaan enää suosittele tätä, sillä se vie enemmän aikaa kuin suoraan sanojen opiskelu.&lt;/p&gt;
+&lt;p&gt;Jos sanoja opiskellessa huomaat, että eri kanji-merkkien erottaminen toisistaan on vaikeaa, suosittelen RTK:n kautta yksittäisten merkkien opiskelua, jolloin myös radikaalien periaatteet tulevat tutuiksi.&lt;/p&gt;
+&lt;/span&gt;
+&lt;/div&gt; 
+&lt;h2 id=&#34;3-kielioppi&#34;&gt;3. Kielioppi&lt;/h2&gt;
+&lt;h3 id=&#34;kannattaako-opiskella-kielioppia&#34;&gt;Kannattaako opiskella kielioppia?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Kyllä&lt;/strong&gt;: Suosittelen alkuvaiheessa mekanistisesti lukemaan läpi kieliopin perusteita. &lt;em&gt;Ei tarvitse jäädä hinkkaamaan näitä,&lt;/em&gt; mutta peruskäsitys mm. lauserakenteista ja verbien käytöstä on järkevää ottaa haltuun heti alkuvaiheessa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Kielioppimateriaaleja&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://yoku.bi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yokubi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://guidetojapanese.org/learn/grammar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tae Kim&amp;rsquo;s Guide to Japanese&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N&amp;amp;si=bxfHxpCnpoeaQQqj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Japanese Ammo with Misa Grammar Youtube Playlist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&amp;amp;si=5commNtP4rE6k_jt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cure Dolly&amp;rsquo;s Organic Japanese Youtube Playlist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;strong&gt;Immersiosta oppiminen&lt;/strong&gt;: Heti kun alkaa olla hyvä kasa sanoja hallussa ja kieliopin perusteista edes jonkinlainen käsitys, kannattaa alkaa oppimaan &lt;em&gt;immersoitumalla&lt;/em&gt; natiivimateriaaleihin.&lt;/span&gt;
+&lt;/div&gt; 
+&lt;h2 id=&#34;4-immersio&#34;&gt;4. Immersio&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Natiivimateriaaleihin&lt;/strong&gt; hyppääminen kannattaa tehdä heti kuin tuntuu, että kaikki ei kuulosta/näytä heprealta, sillä itseä innostavien kirjojen/sarjojen kuluttaminen on paljon innostavampaa kuin oppikirjoista pänttääminen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suurin osa suomalaisista osaa puhua englantia niin hyvin juuri sen takia, että he ovat kuluttaneet runsaasti englanninkielistä materiaalia ja imuroineet englantia luonnollisesti sitä myötä.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Immersio&lt;/strong&gt; tarkoittaa käytännössä sitä, että kuluttaa natiivimateriaalia. Sarjoissa/muissa videoissa saa käyttää japaninkielisiä tekstityksiä tai voi katsoa niitä täysin ilman mitään tekstityksiä. Voi lukea japaninkielisiä kirjoja, uutisia, selata keskustelupalstoja yms.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mitä enemmän natiivimateriaalia kulutat, sitä nopeammin opit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Louhinta&lt;/strong&gt;: Immersiomateriaalista oppimiaan sanoja voi siirtää Ankiin (muistikorttisovellus), jota kautta voi tehostaa oppimistaan huomattavasti. Tätä prosessia, jossa immersiomateriaalin sanoja/lauseita siirretään Ankiin, kutsutaan &lt;a href=&#34;https://louhinta.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;louhinnaksi&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;strong&gt;Loppuelämä&lt;/strong&gt;: Käytännössä minkä tahansa kielen opiskelemisen tavoite tulisi olla se, että &amp;ldquo;opiskeluksi&amp;rdquo; riittää natiivimateriaalien kuluttaminen. Kunhan ylittää alkuvaikeudet (n. &amp;gt;1000 yleisintä sanaa ja peruskielioppi), niin pystyy hyvin jatkaa oppimista paljon kiinnostavammista lähteistä.&lt;/span&gt;
+&lt;/div&gt; 
+&lt;h2 id=&#34;muualta&#34;&gt;Muualta&lt;/h2&gt;
+&lt;p&gt;Muita lähteitä japanin opiskeluun liittyen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnjapanese.moe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Moe Way&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;日本語の勉強、頑張って！&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -286,7 +379,7 @@
 
 
 
-&lt;div id=&#34;chart-723589641&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-235694178&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -304,7 +397,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-723589641&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-235694178&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
