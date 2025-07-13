@@ -299,7 +299,7 @@ sections:
       subtitle: 'Latest Updates'
       filters:
         folders:
-          - post
+          - Patopost
         tags:
           - patologia
         exclude_featured: false
