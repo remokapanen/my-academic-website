@@ -13,3 +13,6 @@ main:
   - name: Kielet
     url: kielet/
     weight: 30
+  - name: Anki
+    url: anki/
+    weight: 40
