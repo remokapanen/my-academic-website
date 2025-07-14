@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anki | Remo Kapanen</title>
+    <link>http://localhost:1313/tags/anki/</link>
+      <atom:link href="http://localhost:1313/tags/anki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anki</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Anki</title>
+      <link>http://localhost:1313/tags/anki/</link>
+    </image>
+    
+    <item>
+      <title>Ankin perusteet</title>
+      <link>http://localhost:1313/ankiproject/ankin-perusteet/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ankiproject/ankin-perusteet/</guid>
+      <description>&lt;p&gt;Opas Ankin asennukseen, säätämiseen ja peruskäyttöön&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

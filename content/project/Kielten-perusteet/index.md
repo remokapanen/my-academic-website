@@ -68,7 +68,7 @@ Jos sanoja opiskellessa huomaat, että eri kanji-merkkien erottaminen toisistaan
 
 ## 4. Immersio
 
-- **Natiivimateriaaleihin** hyppääminen kannattaa tehdä heti kun tuntuu, että kaikki ei kuulosta/näytä heprealta, sillä itseä innostavien kirjojen/sarjojen kuluttaminen on paljon innostavampaa kuin oppikirjoista pänttääminen. 
+- **Natiivimateriaaleihin** hyppääminen kannattaa tehdä heti kun tuntuu, että kaikki ei kuulosta/näytä heprealta, sillä itseä innostavien kirjojen/sarjojen kuluttaminen on paljon mieluisempaa kuin oppikirjoista pänttääminen. 
 
     - Suurin osa suomalaisista osaa puhua englantia niin hyvin juuri sen takia, että he ovat kuluttaneet runsaasti englanninkielistä materiaalia ja imuroineet englantia luonnollisesti sitä myötä. 
 
