@@ -32,7 +32,6 @@ organizations:
 profiles:
   - icon: brands/youtube
     url: https://www.youtube.com/@remokapanen
-    
 ---
 
 ## About Me
