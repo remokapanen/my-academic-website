@@ -20,7 +20,7 @@ Surullinen totuus on se, että paikkoja joutuu hakemaan aikaisin - varsinkin jos
 
 Laitetaan heti tärkein asia tähän alkuun. 
 
-- Taulukon tiedot perustuvat niin henkilökohtaiseen tietoon että kanssaopiskelijoilta kerättyyn tietoon. Jos saamasi palkkatarjous eroaa taulukosta, ilmoita siitä minulle (reakap@utu.fi) niin saadaan jaettua päivitettyä tietoa kaikille jaetuksi.
+- Taulukon tiedot perustuvat niin henkilökohtaiseen tietoon että kanssaopiskelijoilta kerättyyn tietoon. Jos saamasi palkkatarjous eroaa taulukosta, ilmoita siitä minulle (reakap@utu.fi) niin saadaan jaettua päivitettyä tietoa kaikille.
 
 
 ### Palkat kaupungittain ja paikoittain
