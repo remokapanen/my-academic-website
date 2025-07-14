@@ -10,6 +10,10 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/kurssiproject/amanuenssuurit/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/tags/anki/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,6 +23,18 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/ankiproject/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/kurssiproject/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/laakis/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/kurssiproject/lk4-kesa/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

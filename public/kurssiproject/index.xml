@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kurssiprojects | Remo Kapanen</title>
+    <link>http://localhost:1313/kurssiproject/</link>
+      <atom:link href="http://localhost:1313/kurssiproject/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kurssiprojects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Kurssiprojects</title>
+      <link>http://localhost:1313/kurssiproject/</link>
+    </image>
+    
+    <item>
+      <title>Amanuenssuurit</title>
+      <link>http://localhost:1313/kurssiproject/amanuenssuurit/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kurssiproject/amanuenssuurit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Kokemuksia ja suosituksia amanuenssuureista&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LK4-kesä</title>
+      <link>http://localhost:1313/kurssiproject/lk4-kesa/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kurssiproject/lk4-kesa/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Kokemuksia ja suosituksia LK4-kesän työpaikoista. Myös (jokseenkin luotettava) palkkataulukko löytyy täältä.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Tälle sivulle päivittyy kokemuksia ja suosituksia LK4-kesän työpaikoista. Surullinen totuus on se, että paikkoja joutuu hakemaan aikaisin - varsinkin jos haluaa päästä kaveriporukalla samaan paikkaan.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Haimme kolmen ystäväni kanssa kesätyöpaikkaa jo kolmosen syksyllä. Halutut paikat voivat mennä jo jopa aikaisemmin.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;On harmillista, että työpaikkojen hakemisen aikataulusta ei kerrota mitään koulun suunnalta. Työpaikkojen aikaisen hakemisen tarpeellisuus tuntuu olevan vähän sisäpiiritietoa, joten toivottavasti tämä saataisiin standardoitua joskus tulevaisuudessa tasa-arvoisemmaksi.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;palkkataulukko&#34;&gt;Palkkataulukko&lt;/h1&gt;
+&lt;p&gt;Laitetaan heti tärkein asia tähän alkuun.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(Taulukon tiedot perustuvat niin henkilökohtaiseen tietoon että kanssaopiskelijoilta kerättyyn tietoon. Jos saamasi palkkatarjous eroaa taulukosta, ilmoita siitä minulle (&lt;a href=&#34;mailto:reakap@utu.fi&#34;&gt;reakap@utu.fi&lt;/a&gt;) niin saadaan jaettua päivitettyä tietoa kaikille jaetuksi.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;palkkataulukko-esimerkkipohja&#34;&gt;Palkkataulukko (esimerkkipohja)&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Kaupunki&lt;/th&gt;
+          &lt;th&gt;Paikka 1&lt;/th&gt;
+          &lt;th&gt;palkka 1&lt;/th&gt;
+          &lt;th&gt;Paikka 2&lt;/th&gt;
+          &lt;th&gt;palkka 2&lt;/th&gt;
+          &lt;th&gt;Paikka 3&lt;/th&gt;
+          &lt;th&gt;palkka 3&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Helsinki&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Turku&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tampere&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Oulu&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kuopio&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Jyväskylä&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lahti&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pori&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Vaasa&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Muu&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
