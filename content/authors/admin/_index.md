@@ -32,8 +32,8 @@ organizations:
 profiles:
   - icon: brands/youtube
     url: https://www.youtube.com/@remokapanen
-
+    
 ---
 
 ## About Me
-Tykkään oppimisesta ja opettamisesta. Tältä nettisivulta löytyy erilaisia opetusmateriaalejani ja projektejani.
+Tykkään oppimisesta ja opettamisesta. Näiltä nettisivuilta löytyy erilaisia opetusmateriaalejani ja projektejani.

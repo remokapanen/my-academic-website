@@ -13,6 +13,7 @@
       "div",
       "em",
       "footer",
+      "g",
       "h1",
       "h2",
       "h3",
@@ -31,7 +32,6 @@
       "main",
       "meta",
       "nav",
-      "ol",
       "p",
       "path",
       "polygon",
@@ -483,7 +483,6 @@
       "c6-c7--kesä",
       "code",
       "did-you-find-this-page-helpful-consider-sharing-it-",
-      "heading",
       "hide-button",
       "hiragana-ひらがな",
       "inline-images",
@@ -502,7 +501,6 @@
       "pakan-lataaminen-ja-käyttö",
       "palkat-kaupungittain-ja-paikoittain",
       "palkkataulukko",
-      "palkkataulukko-esimerkkipohja",
       "podcast",
       "profile",
       "ranki-vs-anking",
@@ -525,9 +523,7 @@
       "teaching",
       "test-students",
       "top",
-      "tyks-mäntymäki",
       "tyks-mäntymäki-sisätautiamanuenssuuri-sydänosasto",
-      "tyks-mäntymäki-sydänosasto",
       "video"
     ]
   }
