@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/opiskelu/</link>
       <atom:link href="http://localhost:1313/tags/opiskelu/index.xml" rel="self" type="application/rss+xml" />
     <description>Opiskelu</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu12803607889872652889.png</url>
       <title>Opiskelu</title>
@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Ankin perusteet</title>
-      <link>http://localhost:1313/ankiproject/ankin-perusteet/</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ankiproject/ankin-perusteet/</guid>
-      <description>&lt;p&gt;Opas Ankin asennukseen, säätämiseen ja peruskäyttöön&lt;/p&gt;</description>
+      <title>Lauseiden louhinta (Sentence mining)</title>
+      <link>http://localhost:1313/ankiproject/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ankiproject/</guid>
+      <description>&lt;p&gt;Miten kerätä immersiomateriaalista suoraan Ankiin sanoja/lauseita&lt;/p&gt;</description>
     </item>
     
     <item>

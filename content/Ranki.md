@@ -29,16 +29,25 @@ sections:
 
   - block: markdown
     content:
-      title: 'Opas'
+      title: 'Oppaat'
       subtitle: 'GitBook Integration'
       text: |
-        ## Pakan lataaminen ja käyttö
+        ## 
 
-        Tarkat ohjeet Rankin lataamiseen ja sen käyttöön löytyvät alla olevasta GitBookista (TULOSSA)
+        Tarkat ohjeet Rankin lataamiseen ja sen käyttöön löytyvät alla olevasta GitBookista.
 
         Aiheesta löytyy myös [opetusvideo](https://youtu.be/XwG-Fju94tU?si=BmxbPRwGbzqZb5PK)
+
+  - block: collection
+    content:
+      title: 
+      filters:
+        folders:
+          - rankiproject
     design:
-      columns: '1'
+      view: article-grid
+      fill_image: false
+      columns: 3
       spacing:
         padding:
           - "3rem"
