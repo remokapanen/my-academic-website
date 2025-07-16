@@ -15,7 +15,7 @@ sections:
       text: Resursseja Ankin tehokkaan käytön oppimiseen
       filters:
         folders:
-          - ankiproject
+          - ankiproject 
     design:
       view: article-grid
       fill_image: false
