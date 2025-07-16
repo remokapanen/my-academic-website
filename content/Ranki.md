@@ -18,7 +18,7 @@ sections:
     content:
       title: 'Mikä Ranki?'
       text: |
-        Ranki on yhdellä napinpainalluksella päivittyvä yleisessä jaossa oleva lääketieteelliseen peruskoulutukseen keskittyvä Anki-pakka, jonka tarkoituksena on tehostaa oppimista ja ennalta kaikkea säästää opiskelijoiden aikaa. 
+        Ranki on yhdellä napinpainalluksella päivittyvä yleisessä jaossa oleva lääketieteelliseen peruskoulutukseen keskittyvä Anki-pakka, jonka tarkoituksena on tehostaa oppimista ja ennen kaikkea säästää opiskelijoiden aikaa. 
 
         Pakka päivittyy jatkuvasti sitä tahtia, mitä allekirjoittanut kerkeää. 
     design:
