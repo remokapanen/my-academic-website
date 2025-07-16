@@ -10,6 +10,22 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/ranki/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/get-started/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/kurssiproject/amanuenssuurit/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -39,10 +55,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/opiskelu/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -78,10 +90,6 @@
     <lastmod>2025-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/ranki/</loc>
-    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/ranki/</loc>
     <lastmod>2025-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -96,14 +104,6 @@
   </url><url>
     <loc>http://localhost:1313/project/kielten-perusteet/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/post/get-started/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/javascript/</loc>

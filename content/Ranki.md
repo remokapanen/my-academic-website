@@ -21,6 +21,8 @@ sections:
         Ranki on yhdellä napinpainalluksella päivittyvä yleisessä jaossa oleva lääketieteelliseen peruskoulutukseen keskittyvä Anki-pakka, jonka tarkoituksena on tehostaa oppimista ja ennen kaikkea säästää opiskelijoiden aikaa. 
 
         Pakka päivittyy jatkuvasti sitä tahtia, mitä allekirjoittanut kerkeää. 
+
+        Kysymyksiä voi esittää [discord-serverillä](https://discord.gg/Sj2WJrcQgp)
     design:
       columns: '1'
       spacing:
@@ -37,6 +39,8 @@ sections:
         Tarkat ohjeet Rankin lataamiseen ja sen käyttöön löytyvät alla olevasta GitBookista.
 
         Aiheesta löytyy myös [opetusvideo](https://youtu.be/XwG-Fju94tU?si=BmxbPRwGbzqZb5PK)
+
+        
 
   - block: collection
     content:
