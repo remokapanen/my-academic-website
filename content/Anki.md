@@ -11,13 +11,14 @@ design:
 sections:
   - block: collection
     content:
-      title: Anki-oppaita ja vinkkejä
+      title: Oppaita
       text: Resursseja Ankin tehokkaan käytön oppimiseen
       filters:
         folders:
-          - ankiproject 
+          - ankiproject
     design:
       view: article-grid
       fill_image: false
       columns: 3
+      
 --- 

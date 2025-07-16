@@ -14,14 +14,6 @@
     
     <item>
       <title>Lauseiden louhinta (Sentence mining)</title>
-      <link>http://localhost:1313/ankiproject/</link>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ankiproject/</guid>
-      <description>&lt;p&gt;Miten kerätä immersiomateriaalista suoraan Ankiin sanoja/lauseita&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Lauseiden louhinta (Sentence mining)</title>
       <link>http://localhost:1313/project/louhinta/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/louhinta/</guid>
