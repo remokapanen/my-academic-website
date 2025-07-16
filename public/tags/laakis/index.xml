@@ -204,5 +204,13 @@ TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, si
 &lt;hr&gt;</description>
     </item>
     
+    <item>
+      <title>Ranki-tutoriaali</title>
+      <link>http://localhost:1313/rankiproject/ranki-tutoriaali/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rankiproject/ranki-tutoriaali/</guid>
+      <description>&lt;p&gt;Miten ottaa Ranki käyttöön&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
