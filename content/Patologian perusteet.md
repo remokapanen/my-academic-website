@@ -170,7 +170,7 @@ sections:
           <!-- Row 2 -->
           <div class="chapter-card">
             <div class="chapter-title">Kappale 4: Hemodynamiikka ja sen häiriöt</div>
-                          <div class="chapter-link">📄 Lataa kappale 4 (PDF) - TULOSSA</div>
+                          <div class="chapter-link"><a href="/uploads/patologian-perusteet-kappale-4.pdf">📄 Lataa kappale 4 (PDF)</a></div>
             <div class="video-list">
               Opetusvideot:
               <ul>
@@ -186,7 +186,7 @@ sections:
 
           <div class="chapter-card">
             <div class="chapter-title">Kappale 5: Anemiat</div>
-                          <div class="chapter-link">📄 Lataa kappale 5 (PDF) - TULOSSA</div>
+                          <div class="chapter-link"><a href="/uploads/patologian-perusteet-kappale-5.pdf">📄 Lataa kappale 5 (PDF)</a></div>
             <div class="video-list">
               Opetusvideot:
               <ul>
@@ -199,7 +199,7 @@ sections:
 
           <div class="chapter-card">
             <div class="chapter-title">Kappale 6: Valkosolujen häiriöt</div>
-                          <div class="chapter-link">📄 Lataa kappale 6 (PDF) - TULOSSA</div>
+                          <div class="chapter-link"><a href="/uploads/patologian-perusteet-kappale-6.pdf">📄 Lataa kappale 6 (PDF)</a></div>
             <div class="video-list">
              Opetusvideot:
               <ul>
@@ -217,7 +217,7 @@ sections:
           <!-- Row 3 -->
           <div class="chapter-card">
             <div class="chapter-title">Kappale 7: Verisuonipatologia</div>
-                          <div class="chapter-link">📄 Lataa kappale 7 (PDF) - TULOSSA</div>
+                          <div class="chapter-link"><a href="/uploads/patologian-perusteet-kappale-7.pdf">📄 Lataa kappale 7 (PDF)</a></div>
             <div class="video-list">
               Opetusvideot:
               <ul>
@@ -232,7 +232,7 @@ sections:
 
           <div class="chapter-card">
             <div class="chapter-title">Kappale 8: Sydänpatologia</div>
-                          <div class="chapter-link">📄 Lataa kappale 8 (PDF) - TULOSSA</div>
+                          <div class="chapter-link"><a href="/uploads/patologian-perusteet-kappale-8.pdf">📄 Lataa kappale 8 (PDF)</a></div>
             <div class="video-list">
              Opetusvideot:
               <ul>
@@ -249,7 +249,7 @@ sections:
 
           <div class="chapter-card">
             <div class="chapter-title">Kappale 9: Hengitystiepatologia</div>
-                          <div class="chapter-link">📄 Lataa kappale 9 (PDF) - TULOSSA</div>
+                          <div class="chapter-link"><a href="/uploads/patologian-perusteet-kappale-9.pdf">📄 Lataa kappale 9 (PDF)</a></div>
             <div class="video-list">
               Opetusvideot:
               <ul>
@@ -269,7 +269,7 @@ sections:
           <!-- Row 4 -->
           <div class="chapter-card">
             <div class="chapter-title">Kappale 10: Ruuansulatuskanavan patologia</div>
-                          <div class="chapter-link">📄 Lataa kappale 10 (PDF) - TULOSSA</div>
+                          <div class="chapter-link"><a href="/uploads/patologian-perusteet-kappale-10.pdf">📄 Lataa kappale 10 (PDF)</a></div>
             <div class="video-list">
               Opetusvideot:
               <ul>
