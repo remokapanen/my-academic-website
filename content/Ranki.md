@@ -36,9 +36,9 @@ sections:
       text: |
         ## 
 
-        Tarkat ohjeet Rankin lataamiseen ja sen käyttöön löytyvät alla olevasta GitBookista.
+        Tarkat ohjeet Rankin lataamiseen ja sen käyttöön löytyvät alla olevasta GitBookista. Katso myös AnKingOverhaul-pikaopas ja säädä korttien asetukset oppaan mukaisesti.
 
-        Aiheesta löytyy myös [opetusvideo](https://youtu.be/XwG-Fju94tU?si=BmxbPRwGbzqZb5PK)
+        Rankin käyttöönotosta löytyy myös (hieman vanhentunut) [opetusvideo](https://youtu.be/XwG-Fju94tU?si=BmxbPRwGbzqZb5PK)
 
         
 

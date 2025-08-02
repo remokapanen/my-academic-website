@@ -34,6 +34,14 @@
     </item>
     
     <item>
+      <title>AnKingOverhaul-pikaopas</title>
+      <link>http://localhost:1313/rankiproject/ranki-tutoriaali/</link>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rankiproject/ranki-tutoriaali/</guid>
+      <description>&lt;p&gt;Nopea AnKingOverhaul-korttipohjan esittely ja suositellut asetukset Rankia varten&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Rankin aikalinja</title>
       <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
@@ -300,9 +308,9 @@ TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, si
     
     <item>
       <title>Ranki-tutoriaali</title>
-      <link>http://localhost:1313/rankiproject/ranki-tutoriaali/</link>
+      <link>http://localhost:1313/rankiproject/ankingoverhaul/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rankiproject/ranki-tutoriaali/</guid>
+      <guid>http://localhost:1313/rankiproject/ankingoverhaul/</guid>
       <description>&lt;p&gt;Miten ottaa Ranki käyttöön&lt;/p&gt;</description>
     </item>
     

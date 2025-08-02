@@ -1,14 +1,14 @@
 ---
-title: Ranki-tutoriaali
-date: 2025-07-12
-external_link: https://ranki-tutoriaali.netlify.app/
+title: AnKingOverhaul-pikaopas
+date: 2025-08-02
+external_link: https://ankingoverhaul-opas.netlify.app
 tags:
   - Ranki
   - Anki
   - Lääkis
 ---
 
-Miten ottaa Ranki käyttöön
+Nopea AnKingOverhaul-korttipohjan esittely ja suositellut asetukset Rankia varten
 
 
 <!--more-->
