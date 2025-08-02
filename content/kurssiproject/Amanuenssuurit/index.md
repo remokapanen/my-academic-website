@@ -20,7 +20,7 @@ Amanuenssuuri viittaa pakollisiin lääkäriharjoittelujaksohin.
 
 - Amanuenssi (manu) taas on lääketieteen opiskelija, joka toimii lääkäriharjoittelijana jossakin terveydenhuollon toimintayksikössä. 
 
-- Yhden amanuensuurikuukauden palkka on n. 1800 euroa 
+- Yhden amanuenssuurikuukauden palkka on n. 1800 euroa 
 
 ## C4-C5 -kesä
 
@@ -60,7 +60,7 @@ TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, si
 
 Geriatrisella sydänosastolla on n. 20-24 potilasta ja osasto jaetaan kahteen eli alku- ja loppupäähän. Osastolla toimi kesällä 1-2 erikoistuvaa lääkäriä, 1 erikoislääkäri, 1 LK4 ja 1 amanuenssi. Pääasiassa toimintamallina oli se, että LK4 ja amanuenssi (minä) toimimme kahdestaan, EVAL itse ja erikoislääkäri pyöri molempien kanssa siten miten ehti. Erikoislääkärinä Mäntymäen sydänosastolla on jo pitkään toiminut Ville Langén, ketä en pysty kuorruttamaan tarpeeksi. Varsinkin, jos haluaa UKG:ta oppia, niin ei ole parempaa opettajaa kuin Ville. Hän on jopa tehnyt UKG-opetusmateriaalin [omalle nettisivulleen](villelangen.com), kannattaa se ehdottomasti lukea, jos sydämen ultraaminen kiinnostaa: https://ukg-opas.netlify.app/
 
-Osastolla pääsee toimimaan todella itsenäisesti. Sain jo amanuenssina paljon vastuuta ja vapautta toimia. Kiertoja suoritetaan usein ilman EVALia tai erikoislääkäriä, jolloin pääsee itse keskustelemaan oman osaston puoliskonsa potilaiden kanssa, tutkimaan heitä ja käytännössä tekemään omia hoitopäätöksiä (yleensä kuitenkin tarkastutetaan lääkärien kautta vielä). Osaston paras asia on kuitenkin vapaa käyttömahdollisuus UKG-laitteeseen, jonka voi lähes aina ottaa mukaansa ja mennä harjoittelemaan ultraamista. Villen hihaa vetäen hän myös usein tulee mukaan opettamaan. Pääsee myös halutessaan kirjoittamaan paljon UKG-lausuntoja. 
+Osastolla pääsee toimimaan todella itsenäisesti. Sain jo amanuenssina paljon vastuuta ja vapautta toimia. Kiertoja pääsee usein suorittamaan samalla osastolla toimivan LK4:n kanssa ilman EVALia tai erikoislääkäriä, jolloin pääsee itse keskustelemaan oman osaston puoliskonsa potilaiden kanssa, tutkimaan heitä ja tekemään aktiivisesti ehdotuksia potilaiden hoitolinjoista (näitä sitten tarkastutetaan LK4:n ja lääkärien kautta vielä). Osaston paras asia on kuitenkin vapaa käyttömahdollisuus UKG-laitteeseen, jonka voi lähes aina ottaa mukaansa ja mennä harjoittelemaan ultraamista. Villen hihaa vetäen hän myös usein tulee mukaan opettamaan. Pääsee myös halutessaan kirjoittamaan paljon UKG-lausuntoja. 
 
 Amanuenssin päätehtäviin osastolla kuuluu:
 - Uusien potilaiden tutkiminen ja tulotekstien kirjottamien

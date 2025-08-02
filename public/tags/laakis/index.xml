@@ -5,12 +5,28 @@
     <link>http://localhost:1313/tags/laakis/</link>
       <atom:link href="http://localhost:1313/tags/laakis/index.xml" rel="self" type="application/rss+xml" />
     <description>Lääkis</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu12803607889872652889.png</url>
       <title>Lääkis</title>
       <link>http://localhost:1313/tags/laakis/</link>
     </image>
+    
+    <item>
+      <title>AnKingOverhaul-pikaopas</title>
+      <link>http://localhost:1313/rankiproject/ranki-tutoriaali/</link>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rankiproject/ranki-tutoriaali/</guid>
+      <description>&lt;p&gt;Nopea AnKingOverhaul-korttipohjan esittely ja suositellut asetukset Rankia varten&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>C5-opas</title>
+      <link>http://localhost:1313/kurssiproject/c5/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kurssiproject/c5/</guid>
+      <description>&lt;p&gt;Vinkit C5-lukukaudelle&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Amanuenssuurit</title>
@@ -29,7 +45,7 @@
 &lt;p&gt;Amanuenssi (manu) taas on lääketieteen opiskelija, joka toimii lääkäriharjoittelijana jossakin terveydenhuollon toimintayksikössä.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Yhden amanuensuurikuukauden palkka on n. 1800 euroa&lt;/p&gt;
+&lt;p&gt;Yhden amanuenssuurikuukauden palkka on n. 1800 euroa&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;c4-c5--kesä&#34;&gt;C4-C5 -kesä&lt;/h2&gt;
@@ -58,7 +74,7 @@ B1-osastolla toimi kesällä 2025 kaksi erikoislääkäriä (Risto Leino ja Emma
 &lt;p&gt;Esittely:
 TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, sisätaudit), joille amanuenssit jaetaan sattumanvaraisesti. Osastoilla pääasiassa toteutetaan geriatristen potilaiden hoitoa.&lt;/p&gt;
 &lt;p&gt;Geriatrisella sydänosastolla on n. 20-24 potilasta ja osasto jaetaan kahteen eli alku- ja loppupäähän. Osastolla toimi kesällä 1-2 erikoistuvaa lääkäriä, 1 erikoislääkäri, 1 LK4 ja 1 amanuenssi. Pääasiassa toimintamallina oli se, että LK4 ja amanuenssi (minä) toimimme kahdestaan, EVAL itse ja erikoislääkäri pyöri molempien kanssa siten miten ehti. Erikoislääkärinä Mäntymäen sydänosastolla on jo pitkään toiminut Ville Langén, ketä en pysty kuorruttamaan tarpeeksi. Varsinkin, jos haluaa UKG:ta oppia, niin ei ole parempaa opettajaa kuin Ville. Hän on jopa tehnyt UKG-opetusmateriaalin &lt;a href=&#34;villelangen.com&#34;&gt;omalle nettisivulleen&lt;/a&gt;, kannattaa se ehdottomasti lukea, jos sydämen ultraaminen kiinnostaa: &lt;a href=&#34;https://ukg-opas.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ukg-opas.netlify.app/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Osastolla pääsee toimimaan todella itsenäisesti. Sain jo amanuenssina paljon vastuuta ja vapautta toimia. Kiertoja suoritetaan usein ilman EVALia tai erikoislääkäriä, jolloin pääsee itse keskustelemaan oman osaston puoliskonsa potilaiden kanssa, tutkimaan heitä ja käytännössä tekemään omia hoitopäätöksiä (yleensä kuitenkin tarkastutetaan lääkärien kautta vielä). Osaston paras asia on kuitenkin vapaa käyttömahdollisuus UKG-laitteeseen, jonka voi lähes aina ottaa mukaansa ja mennä harjoittelemaan ultraamista. Villen hihaa vetäen hän myös usein tulee mukaan opettamaan. Pääsee myös halutessaan kirjoittamaan paljon UKG-lausuntoja.&lt;/p&gt;
+&lt;p&gt;Osastolla pääsee toimimaan todella itsenäisesti. Sain jo amanuenssina paljon vastuuta ja vapautta toimia. Kiertoja pääsee usein suorittamaan samalla osastolla toimivan LK4:n kanssa ilman EVALia tai erikoislääkäriä, jolloin pääsee itse keskustelemaan oman osaston puoliskonsa potilaiden kanssa, tutkimaan heitä ja tekemään aktiivisesti ehdotuksia potilaiden hoitolinjoista (näitä sitten tarkastutetaan LK4:n ja lääkärien kautta vielä). Osaston paras asia on kuitenkin vapaa käyttömahdollisuus UKG-laitteeseen, jonka voi lähes aina ottaa mukaansa ja mennä harjoittelemaan ultraamista. Villen hihaa vetäen hän myös usein tulee mukaan opettamaan. Pääsee myös halutessaan kirjoittamaan paljon UKG-lausuntoja.&lt;/p&gt;
 &lt;p&gt;Amanuenssin päätehtäviin osastolla kuuluu:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Uusien potilaiden tutkiminen ja tulotekstien kirjottamien&lt;/li&gt;
@@ -206,9 +222,9 @@ TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, si
     
     <item>
       <title>Ranki-tutoriaali</title>
-      <link>http://localhost:1313/rankiproject/ranki-tutoriaali/</link>
+      <link>http://localhost:1313/rankiproject/ankingoverhaul/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rankiproject/ranki-tutoriaali/</guid>
+      <guid>http://localhost:1313/rankiproject/ankingoverhaul/</guid>
       <description>&lt;p&gt;Miten ottaa Ranki käyttöön&lt;/p&gt;</description>
     </item>
     

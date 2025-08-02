@@ -5,12 +5,28 @@
     <link>http://localhost:1313/tags/ranki/</link>
       <atom:link href="http://localhost:1313/tags/ranki/index.xml" rel="self" type="application/rss+xml" />
     <description>Ranki</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu12803607889872652889.png</url>
       <title>Ranki</title>
       <link>http://localhost:1313/tags/ranki/</link>
     </image>
+    
+    <item>
+      <title>AnKingOverhaul-pikaopas</title>
+      <link>http://localhost:1313/rankiproject/ranki-tutoriaali/</link>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rankiproject/ranki-tutoriaali/</guid>
+      <description>&lt;p&gt;Nopea AnKingOverhaul-korttipohjan esittely ja suositellut asetukset Rankia varten&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>C5-opas</title>
+      <link>http://localhost:1313/kurssiproject/c5/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kurssiproject/c5/</guid>
+      <description>&lt;p&gt;Vinkit C5-lukukaudelle&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Rankin aikalinja</title>
@@ -31,9 +47,9 @@
     
     <item>
       <title>Ranki-tutoriaali</title>
-      <link>http://localhost:1313/rankiproject/ranki-tutoriaali/</link>
+      <link>http://localhost:1313/rankiproject/ankingoverhaul/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rankiproject/ranki-tutoriaali/</guid>
+      <guid>http://localhost:1313/rankiproject/ankingoverhaul/</guid>
       <description>&lt;p&gt;Miten ottaa Ranki käyttöön&lt;/p&gt;</description>
     </item>
     
