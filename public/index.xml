@@ -34,6 +34,21 @@
     </item>
     
     <item>
+      <title>Rankin varmuuskopiot</title>
+      <link>http://localhost:1313/post/backups/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/backups/</guid>
+      <description>&lt;h2 id=&#34;ongelmia-kortteja-ladatessa&#34;&gt;Ongelmia kortteja ladatessa&lt;/h2&gt;
+&lt;p&gt;Joskus voi ilmentyä ongelmia korttien lataamisessa omalle päätelaitteelleen. Olen kirjoittanut näistä tilanteista ja niiden välttämisestä &lt;a href=&#34;https://ranki-tutoriaali.netlify.app/paivitysten-lataaminen#iso-huomio-synkronoinnista-ristiriita-ankiwebin-kanssa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ranki-oppaaseen&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tältä sivulta voi tarvittaessa ladata aina uusimmat kortit, jos niitä ei syystä tai toisesta pysty lataamaan AnkiCollabin kautta&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;varmuuskopiot&#34;&gt;Varmuuskopiot&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://mega.nz/file/HVg1lAzS#jaIu9CPVKTigwZWPh8w5dxonb3gRTGGM_fX5EnEjOHM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C7-kortit ad 24.8.2025&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AnKingOverhaul-pikaopas</title>
       <link>http://localhost:1313/rankiproject/ranki-tutoriaali/</link>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
