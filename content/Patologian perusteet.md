@@ -186,7 +186,7 @@ sections:
 
           <div class="chapter-card">
             <div class="chapter-title">Kappale 5: Anemiat</div>
-                          <div class="chapter-link"><a href="/uploads/patologian-perusteet-kappale-5.pdf">📄 Lataa kappale 5 (PDF)</a></div>
+                          <div class="chapter-link"><a href="/uploads/patologian-perusteet-kappale-5u.pdf">📄 Lataa kappale 5 (PDF)</a></div>
             <div class="video-list">
               Opetusvideot:
               <ul>
