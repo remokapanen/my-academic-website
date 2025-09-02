@@ -190,7 +190,7 @@ sections:
             <div class="video-list">
               Opetusvideot:
               <ul>
-                <li><a href="https://youtu.be/fXPPAjetENU?si=3Gtv4-DbV0x2ksVN">5.1 Anemia & 5.2 Mikrosytääriset anemiat</a></li>
+                <li><a href="https://youtu.be/LePkLxpNfnk?si=1clCE24-719T9Acz">5.1 Anemia & 5.2 Mikrosytääriset anemiat</a></li>
                 <li><a href="https://youtu.be/z8y2WfEnZjo?si=BwRPdaLaHDaOx36D">5.3 Makrosytääriset anemiat</a></li>
                 <li><a href="https://youtu.be/e7qnHxnO1rY?si=lNtHVvS2VBhRyhAS">5.4 Normosytääriset anemiat</a></li>
               </ul>

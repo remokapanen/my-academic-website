@@ -23,7 +23,4 @@ Joskus voi ilmentyä ongelmia korttien lataamisessa omalle päätelaitteelleen. 
 
 ## Varmuuskopiot 
 
-[C7-kortit ad 24.8.2025](https://mega.nz/file/HVg1lAzS#jaIu9CPVKTigwZWPh8w5dxonb3gRTGGM_fX5EnEjOHM)
-
-
-
+[C7-kortit ad 02.09.2025](https://mega.nz/file/nBonlYQb#7pgjxhjHfCz3Au4qviatZnVjCJn95_pVl_uAxwbmfEg)
