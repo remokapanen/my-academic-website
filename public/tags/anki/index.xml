@@ -45,6 +45,14 @@
     </item>
     
     <item>
+      <title>Excel-tiedosto Anki-korteiksi</title>
+      <link>http://localhost:1313/ankiproject/excel/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ankiproject/excel/</guid>
+      <description>&lt;p&gt;Nopea opas Excel -&amp;gt; Anki -konversioon&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Ranki-tutoriaali</title>
       <link>http://localhost:1313/rankiproject/ankingoverhaul/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
