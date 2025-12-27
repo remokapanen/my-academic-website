@@ -5,12 +5,44 @@
     <link>http://localhost:1313/kurssiproject/</link>
       <atom:link href="http://localhost:1313/kurssiproject/index.xml" rel="self" type="application/rss+xml" />
     <description>Kurssiprojects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu12803607889872652889.png</url>
       <title>Kurssiprojects</title>
       <link>http://localhost:1313/kurssiproject/</link>
     </image>
+    
+    <item>
+      <title>C6-opas</title>
+      <link>http://localhost:1313/kurssiproject/c6/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kurssiproject/c6/</guid>
+      <description>&lt;p&gt;Vinkit C6-lukukaudelle&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tärpit</title>
+      <link>http://localhost:1313/kurssiproject/tarpit/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kurssiproject/tarpit/</guid>
+      <description>&lt;p&gt;*Uudelleenrakennettuja tärppejä&lt;/p&gt;
+&lt;p&gt;Wikin tärpit ovat varsinkin C7-luvukaudesta eteenpäin aika heikkoja, koska vastaukset usein puuttuvat ja tärpit on usein kerätty exam-tenteistä ja siten ihmiset muistavat asioita väärin/puutteellisesti.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tämän ulkopuolellakin tärpit ovat huonoja kertausmateriaaleja, koska niistä puuttuu selitykset, että miksi jokin vaihtoehto on oikein ja toinen väärin. Alla olevista tärppi-rebuildeista taas löytyy kattavat selitykset.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;c7&#34;&gt;C7&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://radiologiatarpit.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radiologia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ortotarpit.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ortopedia, traumatologia ja käsikirurgia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anetarpit.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anestesiologia ja tehohoito&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kirurgiatarpit.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kirurgia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fysiatriatarpit.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fysiatria&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;c8&#34;&gt;C8&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://knkalkukuulustelutarpit.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KNK-alkukuulustelu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>C5-opas</title>

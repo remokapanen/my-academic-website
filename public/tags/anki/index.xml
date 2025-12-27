@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/anki/</link>
       <atom:link href="http://localhost:1313/tags/anki/index.xml" rel="self" type="application/rss+xml" />
     <description>Anki</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu12803607889872652889.png</url>
       <title>Anki</title>
       <link>http://localhost:1313/tags/anki/</link>
     </image>
+    
+    <item>
+      <title>C6-opas</title>
+      <link>http://localhost:1313/kurssiproject/c6/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kurssiproject/c6/</guid>
+      <description>&lt;p&gt;Vinkit C6-lukukaudelle&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>AnKingOverhaul-pikaopas</title>
