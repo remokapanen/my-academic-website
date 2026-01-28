@@ -21,6 +21,8 @@ Joskus voi ilmentyä ongelmia korttien lataamisessa omalle päätelaitteelleen. 
 
 - Tältä sivulta voi tarvittaessa ladata aina uusimmat kortit, jos niitä ei syystä tai toisesta pysty lataamaan AnkiCollabin kautta 
 
+**Importoi kortit ja valitse Import Optionsin alavalikosta "Updates" ainakin kohta Update notes (ja myös halutessasi Update note types jos haluat että korttityypitkin pysyvät samana kuin minun emopakassa) ja vaihda se "Always".**
+
 ## Varmuuskopiot 
 
-[C7-kortit ad 02.09.2025](https://mega.nz/file/nBonlYQb#7pgjxhjHfCz3Au4qviatZnVjCJn95_pVl_uAxwbmfEg)
+[Täältä koko Ranki mallia 28/01/2026](https://mega.nz/file/jJRmnLxJ#B6W4yLoard6dCLEMMxBZRBdi2tXt4zgAOTxUyEFOwT8)

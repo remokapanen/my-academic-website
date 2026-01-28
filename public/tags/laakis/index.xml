@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/laakis/</link>
       <atom:link href="http://localhost:1313/tags/laakis/index.xml" rel="self" type="application/rss+xml" />
     <description>Lääkis</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu12803607889872652889.png</url>
       <title>Lääkis</title>
       <link>http://localhost:1313/tags/laakis/</link>
     </image>
+    
+    <item>
+      <title>C4-opas</title>
+      <link>http://localhost:1313/kurssiproject/c4/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kurssiproject/c4/</guid>
+      <description>&lt;p&gt;Nopeat vinkit C4-lukukaudelle&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>C8-opas</title>
