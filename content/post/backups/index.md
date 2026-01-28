@@ -21,7 +21,7 @@ Joskus voi ilmentyä ongelmia korttien lataamisessa omalle päätelaitteelleen. 
 
 - Tältä sivulta voi tarvittaessa ladata aina uusimmat kortit, jos niitä ei syystä tai toisesta pysty lataamaan AnkiCollabin kautta 
 
-**Importoi kortit ja valitse Import Optionsin alavalikosta "Updates" ainakin kohta Update notes (ja myös halutessasi Update note types jos haluat että korttityypitkin pysyvät samana kuin minun emopakassa) ja vaihda se "Always".**
+**Importoi kortit ja valitse Import Optionsin alavalikosta "Updates" ainakin kohta Update notes (ja myös halutessasi Update note types jos haluat että korttityypitkin pysyvät samana kuin minun emopakassa) ja vaihda se "Always". Laita myös merge note types päälle.**
 
 ## Varmuuskopiot 
 
