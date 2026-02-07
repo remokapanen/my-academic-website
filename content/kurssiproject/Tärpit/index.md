@@ -25,6 +25,6 @@ Wikin tärpit ovat varsinkin C7-luvukaudesta eteenpäin aika heikkoja, koska vas
 ## C8
 
 - [KNK-alkukuulustelu](https://knkalkukuulustelutarpit.netlify.app/)
-
+- [KNK-tärpit](https://knktarpit.netlify.app/)
 
 
