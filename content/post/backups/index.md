@@ -17,11 +17,11 @@ tags:
 
 ## Ongelmia kortteja ladatessa 
 
-Joskus voi ilmentyä ongelmia korttien lataamisessa omalle päätelaitteelleen. Olen kirjoittanut näistä tilanteista ja niiden välttämisestä [Ranki-oppaaseen](https://ranki-tutoriaali.netlify.app/paivitysten-lataaminen#iso-huomio-synkronoinnista-ristiriita-ankiwebin-kanssa)
+Joskus voi ilmentyä ongelmia korttien lataamisessa omalle päätelaitteelleen. Olen kirjoittanut näistä tilanteista ja niiden välttämisestä [Ranki-oppaaseen](https://ranki-tutoriaali.netlify.app/paivitysten-lataaminen)
 
-- Tältä sivulta voi tarvittaessa ladata aina uusimmat kortit, jos niitä ei syystä tai toisesta pysty lataamaan AnkiCollabin kautta 
+- Tältä sivulta voi välillä löytyä uusin versio pakasta, jos päivityksiä ei syystä tai toisesta pysty lataamaan AnkiCollabin kautta. Jos versio ei ole tätä päivää, niin kannattaa pyytää minulta päivitetty kopio. 
 
-**Importoi kortit ja valitse Import Optionsin alavalikosta "Updates" ainakin kohta Update notes (ja myös halutessasi Update note types jos haluat että korttityypitkin pysyvät samana kuin minun emopakassa) ja vaihda se "If newer". Laita myös merge note types päälle.**
+**Ohjeet importointiin löytyy [Ranki-oppaan kappaleesta 6.4](https://ranki-tutoriaali.netlify.app/paivitysten-lataaminen#korttipuutosten-korjaaminen)**
 
 ## Varmuuskopiot 
 

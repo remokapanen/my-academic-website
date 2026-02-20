@@ -88,11 +88,11 @@
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/backups/</guid>
       <description>&lt;h2 id=&#34;ongelmia-kortteja-ladatessa&#34;&gt;Ongelmia kortteja ladatessa&lt;/h2&gt;
-&lt;p&gt;Joskus voi ilmentyä ongelmia korttien lataamisessa omalle päätelaitteelleen. Olen kirjoittanut näistä tilanteista ja niiden välttämisestä &lt;a href=&#34;https://ranki-tutoriaali.netlify.app/paivitysten-lataaminen#iso-huomio-synkronoinnista-ristiriita-ankiwebin-kanssa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ranki-oppaaseen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Joskus voi ilmentyä ongelmia korttien lataamisessa omalle päätelaitteelleen. Olen kirjoittanut näistä tilanteista ja niiden välttämisestä &lt;a href=&#34;https://ranki-tutoriaali.netlify.app/paivitysten-lataaminen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ranki-oppaaseen&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Tältä sivulta voi tarvittaessa ladata aina uusimmat kortit, jos niitä ei syystä tai toisesta pysty lataamaan AnkiCollabin kautta&lt;/li&gt;
+&lt;li&gt;Tältä sivulta voi välillä löytyä uusin versio pakasta, jos päivityksiä ei syystä tai toisesta pysty lataamaan AnkiCollabin kautta. Jos versio ei ole tätä päivää, niin kannattaa pyytää minulta päivitetty kopio.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Importoi kortit ja valitse Import Optionsin alavalikosta &amp;ldquo;Updates&amp;rdquo; ainakin kohta Update notes (ja myös halutessasi Update note types jos haluat että korttityypitkin pysyvät samana kuin minun emopakassa) ja vaihda se &amp;ldquo;If newer&amp;rdquo;. Laita myös merge note types päälle.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ohjeet importointiin löytyy &lt;a href=&#34;https://ranki-tutoriaali.netlify.app/paivitysten-lataaminen#korttipuutosten-korjaaminen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ranki-oppaan kappaleesta 6.4&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;varmuuskopiot&#34;&gt;Varmuuskopiot&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://mega.nz/file/jJRmnLxJ#B6W4yLoard6dCLEMMxBZRBdi2tXt4zgAOTxUyEFOwT8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Täältä koko Ranki mallia 28/01/2026&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -449,7 +449,7 @@ TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, si
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;p&gt;&lt;strong&gt;Henkilökohtainen kokemus&lt;/strong&gt;: Itse tosin opiskelin kaikki Jōyō kanjit &lt;a href=&#34;https://en.wikipedia.org/wiki/Remembering_the_Kanji&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RTK:n&lt;/a&gt; perusteella rakennetun &lt;a href=&#34;https://ankiweb.net/shared/info/2009196675&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anki-pakan&lt;/a&gt; avulla ennen kuin aloin &lt;a href=&#34;https://louhinta.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;louhia&lt;/a&gt; sanoja immersiomateriaalista. Suurin osa ihmisistä ei kuitenkaan enää suosittele tätä, sillä se vie enemmän aikaa kuin suoraan sanojen opiskelu.&lt;/p&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;p&gt;&lt;strong&gt;Henkilökohtainen kokemus&lt;/strong&gt;: Itse tosin opiskelin kaikki Jōyō kanjit &lt;a href=&#34;https://en.wikipedia.org/wiki/Remembering_the_Kanji&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RTK:n&lt;/a&gt; perusteella rakennetun Anki-pakan (en enää löydä linkkiä käyttämääni pakkaan, mutta etsimällä löytää vaihtoehtoja) avulla ennen kuin aloin &lt;a href=&#34;https://louhinta.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;louhia&lt;/a&gt; sanoja immersiomateriaalista. Suurin osa ihmisistä ei kuitenkaan enää suosittele tätä, sillä se vie enemmän aikaa kuin suoraan sanojen opiskelu.&lt;/p&gt;
 &lt;p&gt;Jos sanoja opiskellessa huomaat, että eri kanji-merkkien erottaminen toisistaan on vaikeaa, suosittelen RTK:n kautta yksittäisten merkkien opiskelua, jolloin myös radikaalien periaatteet tulevat tutuiksi.&lt;/p&gt;
 &lt;/span&gt;
 &lt;/div&gt; 

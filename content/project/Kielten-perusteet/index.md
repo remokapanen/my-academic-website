@@ -43,7 +43,7 @@ Opiskele merkit seuraavassa järjestyksessä
     - Lataa [Kaishi 1.5k](https://ankiweb.net/shared/info/1196762551), joka on yleisimmät 1,5 tuhatta sanaa käsittävä Anki-pakka. 
 
 {{% callout note %}}
-**Henkilökohtainen kokemus**: Itse tosin opiskelin kaikki Jōyō kanjit [RTK:n](https://en.wikipedia.org/wiki/Remembering_the_Kanji) perusteella rakennetun [Anki-pakan](https://ankiweb.net/shared/info/2009196675) avulla ennen kuin aloin [louhia](https://louhinta.netlify.app/) sanoja immersiomateriaalista. Suurin osa ihmisistä ei kuitenkaan enää suosittele tätä, sillä se vie enemmän aikaa kuin suoraan sanojen opiskelu.
+**Henkilökohtainen kokemus**: Itse tosin opiskelin kaikki Jōyō kanjit [RTK:n](https://en.wikipedia.org/wiki/Remembering_the_Kanji) perusteella rakennetun Anki-pakan (en enää löydä linkkiä käyttämääni pakkaan, mutta etsimällä löytää vaihtoehtoja) avulla ennen kuin aloin [louhia](https://louhinta.netlify.app/) sanoja immersiomateriaalista. Suurin osa ihmisistä ei kuitenkaan enää suosittele tätä, sillä se vie enemmän aikaa kuin suoraan sanojen opiskelu.
 
 Jos sanoja opiskellessa huomaat, että eri kanji-merkkien erottaminen toisistaan on vaikeaa, suosittelen RTK:n kautta yksittäisten merkkien opiskelua, jolloin myös radikaalien periaatteet tulevat tutuiksi.
 {{% /callout %}} 
