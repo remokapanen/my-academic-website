@@ -1,6 +1,6 @@
 ---
 title: C8-opas
-date: 2025-12-29
+date: 2026-03-02
 external_link: https://c8-opas.netlify.app/
 tags:
   - Lääkis

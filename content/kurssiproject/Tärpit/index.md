@@ -1,6 +1,6 @@
 ---
 title: Tärpit
-date: 2025-12-27
+date: 2026-03-03
 external_link: 
 tags:
   - Lääkis
@@ -27,4 +27,4 @@ Wikin tärpit ovat varsinkin C7-luvukaudesta eteenpäin aika heikkoja, koska vas
 - [KNK-alkukuulustelu](https://knkalkukuulustelutarpit.netlify.app/)
 - [KNK-tärpit](https://knktarpit.netlify.app/)
 - [Neurotieteet](https://neurotarpit.netlify.app/)
-
+- [Psykiatria](https://psykatarpit.netlify.app/)
