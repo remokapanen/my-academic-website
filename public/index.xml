@@ -86,22 +86,6 @@
     </item>
     
     <item>
-      <title>Rankin varmuuskopiot</title>
-      <link>http://localhost:1313/post/backups/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/backups/</guid>
-      <description>&lt;h2 id=&#34;ongelmia-kortteja-ladatessa&#34;&gt;Ongelmia kortteja ladatessa&lt;/h2&gt;
-&lt;p&gt;Joskus voi ilmentyä ongelmia korttien lataamisessa omalle päätelaitteelleen. Olen kirjoittanut näistä tilanteista ja niiden välttämisestä &lt;a href=&#34;https://ranki-tutoriaali.netlify.app/paivitysten-lataaminen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ranki-oppaaseen&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Tältä sivulta voi välillä löytyä uusin versio pakasta, jos päivityksiä ei syystä tai toisesta pysty lataamaan AnkiCollabin kautta. Jos versio ei ole tätä päivää, niin kannattaa pyytää minulta päivitetty kopio.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Ohjeet importointiin löytyy &lt;a href=&#34;https://ranki-tutoriaali.netlify.app/paivitysten-lataaminen#korttipuutosten-korjaaminen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ranki-oppaan kappaleesta 6.4&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;varmuuskopiot&#34;&gt;Varmuuskopiot&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://mega.nz/file/jJRmnLxJ#B6W4yLoard6dCLEMMxBZRBdi2tXt4zgAOTxUyEFOwT8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Täältä koko Ranki mallia 28/01/2026&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>AnKingOverhaul-pikaopas</title>
       <link>http://localhost:1313/rankiproject/ranki-tutoriaali/</link>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
@@ -226,7 +210,7 @@ TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, si
       <link>http://localhost:1313/kurssiproject/lk4-kesa/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kurssiproject/lk4-kesa/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Kokemuksia ja suosituksia LK4-kesän työpaikoista. Myös (jokseenkin luotettava) palkkataulukko löytyy täältä. Kirjoita LK4-kokemuksistasi sähköpostiini &lt;a href=&#34;mailto:reakap@utu.fi&#34;&gt;reakap@utu.fi&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Kokemuksia ja suosituksia LK4-kesän työpaikoista. Myös (jokseenkin luotettava) palkkataulukko löytyy täältä.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Surullinen totuus on se, että paikkoja joutuu hakemaan aikaisin - varsinkin jos haluaa päästä kaveriporukalla samaan paikkaan.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -239,19 +223,15 @@ TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, si
 &lt;h1 id=&#34;palkkataulukko&#34;&gt;Palkkataulukko&lt;/h1&gt;
 &lt;p&gt;Laitetaan heti tärkein asia tähän alkuun.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Taulukon tiedot perustuvat niin henkilökohtaiseen tietoon että kanssaopiskelijoilta kerättyyn tietoon. Jos saamasi palkkatarjous eroaa taulukosta, ilmoita siitä minulle (&lt;a href=&#34;mailto:reakap@utu.fi&#34;&gt;reakap@utu.fi&lt;/a&gt;) niin saadaan jaettua päivitettyä tietoa kaikille.&lt;/li&gt;
+&lt;li&gt;Taulukon tiedot perustuvat niin henkilökohtaiseen tietoon että kanssaopiskelijoilta kerättyyn tietoon vuosilta 2025-2026.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;palkat-kaupungittain-ja-paikoittain&#34;&gt;Palkat kaupungittain ja paikoittain&lt;/h3&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;Kaupunki&lt;/th&gt;
-          &lt;th&gt;Työpaikka 1&lt;/th&gt;
-          &lt;th&gt;Palkka 1&lt;/th&gt;
-          &lt;th&gt;Työpaikka 2&lt;/th&gt;
-          &lt;th&gt;Palkka 2&lt;/th&gt;
-          &lt;th&gt;Työpaikka 3&lt;/th&gt;
-          &lt;th&gt;Palkka 3&lt;/th&gt;
+          &lt;th&gt;Työpaikka&lt;/th&gt;
+          &lt;th&gt;Palkka&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -259,91 +239,31 @@ TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, si
           &lt;td&gt;Turku&lt;/td&gt;
           &lt;td&gt;Mäntymäki&lt;/td&gt;
           &lt;td&gt;2900€/kk&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Loimaa&lt;/td&gt;
           &lt;td&gt;Loimaan sairaala&lt;/td&gt;
           &lt;td&gt;5800€/kk&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Pori&lt;/td&gt;
           &lt;td&gt;Kaupunginsairaala&lt;/td&gt;
           &lt;td&gt;5800€/kk&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Salo&lt;/td&gt;
           &lt;td&gt;Salon sairaala&lt;/td&gt;
           &lt;td&gt;5800€/kk&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;Vaasa&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Kaarina&lt;/td&gt;
+          &lt;td&gt;Pääterveysasema&lt;/td&gt;
+          &lt;td&gt;5500€/kk&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;Helsinki&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Tampere&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Kuopio&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Hämeenlinna&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Oulu&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Porvoo&lt;/td&gt;
+          &lt;td&gt;Porvoon sairaala&lt;/td&gt;
+          &lt;td&gt;3700€/kk&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
