@@ -29,9 +29,9 @@ Projekti käytännössä alkoi 2024 keväällä, kun aloitin syväriprojektini. 
 
 ## Projekti nyt ja jatkossa
 
-Pakka kattaa tällä hetkellä pääasiassa kakkosvuoden kursseista patologian ja osan mikrobiologiasta sekä farmakologiasta. Kolmosvuoden kurssien kortit ovat jo täysin käytettävissä. Jatkossa teen aina lukuvuosien aikana senhetkisistä kursseistani kortteja, jotka laitan mahdollisimman nopeasti Rankiin jakoon kaikille.
+Pakka kattaa tällä hetkellä pääasiassa kakkosvuoden kursseista patologian ja osan mikrobiologiasta sekä farmakologiasta. Kolmos- ja nelosvuoden kurssien kortit ovat jo pääasiassa muutamia luentoja poislukien täysin käytettävissä. Teen aina lukuvuosien aikana senhetkisistä kursseistani kortteja, jotka laitan mahdollisimman nopeasti Rankiin jakoon kaikille.
 
-Ykkösvuoden kursseista tulen todennäköisesti tekemään aivan viimeisenä kortit. Joku toinen ahkera opiskelija voi aina tietysti AnkiCollabin kautta laittaa omia korttejaan [jakoon](https://ranki-tutoriaali.netlify.app/yhteistyo) Rankiin, jos on tehnyt laadukkaita kortteja ykkösvuoden kursseista. 
+Ykkösvuoden kursseista tulen todennäköisesti tekemään aivan viimeisenä kortit; ehkä en koskaan. Joku toinen ahkera opiskelija voi aina tietysti AnkiCollabin kautta laittaa omia korttejaan [jakoon](https://ranki-tutoriaali.netlify.app/yhteistyo) Rankiin, jos on tehnyt laadukkaita kortteja ykkösvuoden kursseista. 
 
 
 

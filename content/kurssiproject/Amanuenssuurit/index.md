@@ -10,17 +10,13 @@ tags:
 
 <!--more-->
 
-Tälle sivulle päivittyy opiskelijoilta kerättyjä tekstejä heidän suorittamistaan amanuenssuureista.
-
-- Kokemuksia voi kirjoittaa sähköpostiini: reakap@utu.fi
-
 # Amanuenssuuri
 
 Amanuenssuuri viittaa pakollisiin lääkäriharjoittelujaksohin. 
 
 - Amanuenssi (manu) taas on lääketieteen opiskelija, joka toimii lääkäriharjoittelijana jossakin terveydenhuollon toimintayksikössä. 
 
-- Yhden amanuenssuurikuukauden palkka on n. 1800 euroa 
+- Yhden amanuenssuurikuukauden palkka on n. 1800 euroa (tosin esim. HUS:n alueella n. 2500e)
 
 ## C4-C5 -kesä
 
@@ -32,7 +28,7 @@ Kolmannen ja neljännen lukuvuoden välisenä kesänä suurin osa suorittaa ensi
 
 ### Loimaan sairaala (YLE-amanuenssuuri)
 
-2025 Touko-Kesä _(Remo Kapanen)_
+2025 Touko-Kesä
 
 Esittely:
 Loimaalle ajaa Turusta n. 45-50 minuuttia ja myös junat kulkevat sellaisella aikataululla, että niitä voi käyttää hyvin (Loimaan asemalta kävelee n. 10 minuutta sairaalalle). Loimaan sairaalassa on kaksi YLE-amanuenssuuriin kuuluvaa osastoa (B1 ja B2). Osastoilla pääasiassa toteutetaan geriatristen potilaiden yleislääketieteellistä jatkohoitoa. Yhdellä osastolla on n. 20 potilasta ja osasto jaetaan kahteen osaan eli alku- ja loppupäähän. 
@@ -53,7 +49,7 @@ Suosittelen vahvasti Loimaan YLE-amanuenssuuria, jos haluaa päästä tekemään
 
 ### TYKS Mäntymäki (Sisätautiamanuenssuuri; Sydänosasto)
 
-2025 Kesä-Heinä _(Remo Kapanen)_
+2025 Kesä-Heinä
 
 Esittely:
 TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, sisätaudit), joille amanuenssit jaetaan sattumanvaraisesti. Osastoilla pääasiassa toteutetaan geriatristen potilaiden hoitoa. 

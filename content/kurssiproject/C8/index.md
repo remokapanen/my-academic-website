@@ -8,7 +8,7 @@ tags:
   - Ranki
 ---
 
-Kehittyvät vinkit C8-lukukaudelle
+Vinkit C8-lukukaudelle
 
 
 <!--more-->

@@ -36,7 +36,7 @@
     <item>
       <title>Tärpit</title>
       <link>http://localhost:1313/kurssiproject/tarpit/</link>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kurssiproject/tarpit/</guid>
       <description>&lt;p&gt;Uudelleenrakennettuja tärppejä&lt;/p&gt;
 &lt;p&gt;Wikin tärpit ovat varsinkin C7-luvukaudesta eteenpäin aika heikkoja, koska vastaukset usein puuttuvat ja tärpit on usein kerätty exam-tenteistä ja siten ihmiset muistavat asioita väärin/puutteellisesti.&lt;/p&gt;
@@ -62,11 +62,19 @@
     </item>
     
     <item>
+      <title>C9-opas</title>
+      <link>http://localhost:1313/kurssiproject/c9/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kurssiproject/c9/</guid>
+      <description>&lt;p&gt;Vinkit C9-lukukaudelle&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>C8-opas</title>
       <link>http://localhost:1313/kurssiproject/c8/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kurssiproject/c8/</guid>
-      <description>&lt;p&gt;Kehittyvät vinkit C8-lukukaudelle&lt;/p&gt;</description>
+      <description>&lt;p&gt;Vinkit C8-lukukaudelle&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -121,8 +129,8 @@
 &lt;h2 id=&#34;miten-projekti-alkoi&#34;&gt;Miten projekti alkoi?&lt;/h2&gt;
 &lt;p&gt;Projekti käytännössä alkoi 2024 keväällä, kun aloitin syväriprojektini. Syventävien opintojeni päätarkoituksena on luoda patologian kurssille &lt;a href=&#34;https://remokapanen.com/patologian-perusteet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;opetusmateriaalia&lt;/a&gt;. Materiaaleja rakentaessani tajusin, että en halunnut projektin jumittua vain patologian kurssiin, vaan lopulta haluaisin tehdä opetusmateriaalia myös muista kiinnostavista aiheista. Helpoin paikka aloittaa tämän kanssa oli alkaa syksyllä 2024 tekemään kaikille jaettavia Anki-pakkoja niistä kursseista, jotka sillä hetkellä olivat käynnissä koulussa. Aluksi jaoin pakkoja Megasta ladattavina tiedostoina, mutta näiden ongelma oli se, että niitä ei pystynyt enää kätevästi päivittää niiden julkaisemisen jälkeen. Ongelma ratkesi, kun löysin &lt;a href=&#34;https://www.ankicollab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AnkiCollabin&lt;/a&gt;, joka mahdollistaa pakkojen reaaliaikaisen päivittämisen samannimisen Anki-lisäosan kautta. Julkaisin pakan AnkiCollabiin 21.11.2024 ja nimesin sen omahyväisesti etunimeni ensimmäisen kirjaimen mukaan Rankiksi.&lt;/p&gt;
 &lt;h2 id=&#34;projekti-nyt-ja-jatkossa&#34;&gt;Projekti nyt ja jatkossa&lt;/h2&gt;
-&lt;p&gt;Pakka kattaa tällä hetkellä pääasiassa kakkosvuoden kursseista patologian ja osan mikrobiologiasta sekä farmakologiasta. Kolmosvuoden kurssien kortit ovat jo täysin käytettävissä. Jatkossa teen aina lukuvuosien aikana senhetkisistä kursseistani kortteja, jotka laitan mahdollisimman nopeasti Rankiin jakoon kaikille.&lt;/p&gt;
-&lt;p&gt;Ykkösvuoden kursseista tulen todennäköisesti tekemään aivan viimeisenä kortit. Joku toinen ahkera opiskelija voi aina tietysti AnkiCollabin kautta laittaa omia korttejaan &lt;a href=&#34;https://ranki-tutoriaali.netlify.app/yhteistyo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jakoon&lt;/a&gt; Rankiin, jos on tehnyt laadukkaita kortteja ykkösvuoden kursseista.&lt;/p&gt;
+&lt;p&gt;Pakka kattaa tällä hetkellä pääasiassa kakkosvuoden kursseista patologian ja osan mikrobiologiasta sekä farmakologiasta. Kolmos- ja nelosvuoden kurssien kortit ovat jo pääasiassa muutamia luentoja poislukien täysin käytettävissä. Teen aina lukuvuosien aikana senhetkisistä kursseistani kortteja, jotka laitan mahdollisimman nopeasti Rankiin jakoon kaikille.&lt;/p&gt;
+&lt;p&gt;Ykkösvuoden kursseista tulen todennäköisesti tekemään aivan viimeisenä kortit; ehkä en koskaan. Joku toinen ahkera opiskelija voi aina tietysti AnkiCollabin kautta laittaa omia korttejaan &lt;a href=&#34;https://ranki-tutoriaali.netlify.app/yhteistyo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jakoon&lt;/a&gt; Rankiin, jos on tehnyt laadukkaita kortteja ykkösvuoden kursseista.&lt;/p&gt;
 </description>
     </item>
     
@@ -132,10 +140,6 @@
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kurssiproject/amanuenssuurit/</guid>
       <description>&lt;p&gt;&lt;em&gt;Kokemuksia ja suosituksia amanuenssuureista&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Tälle sivulle päivittyy opiskelijoilta kerättyjä tekstejä heidän suorittamistaan amanuenssuureista.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kokemuksia voi kirjoittaa sähköpostiini: &lt;a href=&#34;mailto:reakap@utu.fi&#34;&gt;reakap@utu.fi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h1 id=&#34;amanuenssuuri&#34;&gt;Amanuenssuuri&lt;/h1&gt;
 &lt;p&gt;Amanuenssuuri viittaa pakollisiin lääkäriharjoittelujaksohin.&lt;/p&gt;
 &lt;ul&gt;
@@ -143,7 +147,7 @@
 &lt;p&gt;Amanuenssi (manu) taas on lääketieteen opiskelija, joka toimii lääkäriharjoittelijana jossakin terveydenhuollon toimintayksikössä.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Yhden amanuenssuurikuukauden palkka on n. 1800 euroa&lt;/p&gt;
+&lt;p&gt;Yhden amanuenssuurikuukauden palkka on n. 1800 euroa (tosin esim. HUS:n alueella n. 2500e)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;c4-c5--kesä&#34;&gt;C4-C5 -kesä&lt;/h2&gt;
@@ -151,7 +155,7 @@
 &lt;h2 id=&#34;c6-c7--kesä&#34;&gt;C6-C7 -kesä&lt;/h2&gt;
 &lt;p&gt;Kolmannen ja neljännen lukuvuoden välisenä kesänä suurin osa suorittaa ensimmäisen amanuenssuurinsa. Erityisesti sisätautien amanuenssuuri on suositelluinta suorittaa tällä aikavälillä.&lt;/p&gt;
 &lt;h3 id=&#34;loimaan-sairaala-yle-amanuenssuuri&#34;&gt;Loimaan sairaala (YLE-amanuenssuuri)&lt;/h3&gt;
-&lt;p&gt;2025 Touko-Kesä &lt;em&gt;(Remo Kapanen)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2025 Touko-Kesä&lt;/p&gt;
 &lt;p&gt;Esittely:
 Loimaalle ajaa Turusta n. 45-50 minuuttia ja myös junat kulkevat sellaisella aikataululla, että niitä voi käyttää hyvin (Loimaan asemalta kävelee n. 10 minuutta sairaalalle). Loimaan sairaalassa on kaksi YLE-amanuenssuuriin kuuluvaa osastoa (B1 ja B2). Osastoilla pääasiassa toteutetaan geriatristen potilaiden yleislääketieteellistä jatkohoitoa. Yhdellä osastolla on n. 20 potilasta ja osasto jaetaan kahteen osaan eli alku- ja loppupäähän.
 B1-osastolla toimi kesällä 2025 kaksi erikoislääkäriä (Risto Leino ja Emma-Lotta Välimäki), jotka ovat molemmat tehneet töitä Loimaan sairaalassa jo monia vuosia. Molemmista on vain hyvää sanottavaa. He antoivat amanuenssinkin toimia hyvin vapaasti osastolla ja aktiivisesti antoivat tehtäviä, ilman että niitä piti edes kinua. Muu henkilökunta on myös hyvin vastaanottava opiskelijoille; esimerkiksi hoitajilta pyytäen pääsee aina halutessaan harjoittelemaan kanylointia tai katetrointia.&lt;/p&gt;
@@ -168,7 +172,7 @@ B1-osastolla toimi kesällä 2025 kaksi erikoislääkäriä (Risto Leino ja Emma
 &lt;/ul&gt;
 &lt;p&gt;Suosittelen vahvasti Loimaan YLE-amanuenssuuria, jos haluaa päästä tekemään ja oppimaan todella paljon.&lt;/p&gt;
 &lt;h3 id=&#34;tyks-mäntymäki-sisätautiamanuenssuuri-sydänosasto&#34;&gt;TYKS Mäntymäki (Sisätautiamanuenssuuri; Sydänosasto)&lt;/h3&gt;
-&lt;p&gt;2025 Kesä-Heinä &lt;em&gt;(Remo Kapanen)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2025 Kesä-Heinä&lt;/p&gt;
 &lt;p&gt;Esittely:
 TYKS Mäntymäessä on muutamia osastoja (esim. infektiotaudit, sydänosasto, sisätaudit), joille amanuenssit jaetaan sattumanvaraisesti. Osastoilla pääasiassa toteutetaan geriatristen potilaiden hoitoa.&lt;/p&gt;
 &lt;p&gt;Geriatrisella sydänosastolla on n. 20-24 potilasta ja osasto jaetaan kahteen eli alku- ja loppupäähän. Osastolla toimi kesällä 1-2 erikoistuvaa lääkäriä, 1 erikoislääkäri, 1 LK4 ja 1 amanuenssi. Pääasiassa toimintamallina oli se, että LK4 ja amanuenssi (minä) toimimme kahdestaan, EVAL itse ja erikoislääkäri pyöri molempien kanssa siten miten ehti. Erikoislääkärinä Mäntymäen sydänosastolla on jo pitkään toiminut Ville Langén, ketä en pysty kuorruttamaan tarpeeksi. Varsinkin, jos haluaa UKG:ta oppia, niin ei ole parempaa opettajaa kuin Ville. Hän on jopa tehnyt UKG-opetusmateriaalin &lt;a href=&#34;villelangen.com&#34;&gt;omalle nettisivulleen&lt;/a&gt;, kannattaa se ehdottomasti lukea, jos sydämen ultraaminen kiinnostaa: &lt;a href=&#34;https://ukg-opas.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ukg-opas.netlify.app/&lt;/a&gt;&lt;/p&gt;
