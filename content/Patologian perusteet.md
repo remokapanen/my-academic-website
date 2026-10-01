@@ -23,7 +23,7 @@ sections:
         Materiaali on suunniteltu toimimaan täydellisenä korvikkeena luennoille ja luentodioille. Halutessaan voi kuitenkin myös luennoilla käydä ja luentodioja lukea, mutta en usko sen olevan tarpeellista. 
         
         {{% callout note %}}
-        **Suositus**: Suosittelen tosin hyödyntämään Moodlesta löytyvää mikroskopointimateriaalia.
+        **Suositus**: Suosittelen tosin hyödyntämään Moodlesta löytyvää mikroskopointimateriaalia -- niistäkin löytyy valmiit Anki-kortit [täältä](https://mega.nz/file/zZIWVJCJ#8HsMtojShfk2R7xkWHjPRFLY17XPglKXqfjZ41FoDcg ) (ei ole Rankissa, koska teen ehkä joskus sinne siistimmän kokonaisuuden; nämä ovat vain ne kortit, jotka tein itselleni kurssin aikana vuosia sitten)
         {{% /callout %}} 
     design:
       columns: '1'
@@ -38,11 +38,13 @@ sections:
       text: |
         ## Sisältö ja käyttö
 
-        Patologian perusteet -materiaali on jaettu 19 kappaleeseen, jotka rakentuvat toistensa päälle.
+        Patologian perusteet -materiaali on jaettu 19 kappaleeseen, jotka rakentavat toistensa päälle.
         
-        Suosittelen käymään kappaleet järjestyksessä, ainakin kappaleet 1-3 ennen muita. Ne käsittelevät patologian perusperiaatteita, loput kappaleet enemmänkin tiettyihin elinjärjestelmiin liittyvää patologiaa.
+        Suosittelen käymään kappaleet järjestyksessä, ainakin kappaleet 1-3 ennen muita. Ne käsittelevät patologian perusperiaatteita, loput kappaleet enemmänkin tiettyihin elinjärjestelmiin liittyviä patologioita.
 
-        Tällä hetkellä materiaali on pääosin valmis PATO1:n osalta (joitain osioita pitää korjailla), PATO2:n osiota rakennetaan hiljalleen. 
+        Tällä hetkellä materiaalit ovat pääosin valmis PATO1:n osalta (joitain osioita pitää korjailla ja tehdä uusia videoita, koska ne ovat uusiin verrattuina huonoja laadultaan), PATO2:n osiota rakennetaan hiljalleen (alla olevassa kirjassa kyllä on PATO2:n kappaleet mukana, mutta niitä ei ole tarkastettu tai lisätty kuvia). 
+
+        Puuttuvat aiheet kannattaa opiskella **Pathoma-opetusvideoiden** kautta. Ne ja muita jenkkien maksullisia opiskelumateriaaleja (erityisesti Sketchy, jota kannattaa käyttää farmakologiassa ja mikrobeissa) löytyy koulua kiertävistä USB-muistitikuista (kannattaa kysyä ylemmän vuosikurssin isännältä tai tarvittaessa minultakin voi kysyä). 
 
     design:
       columns: '1'
@@ -59,7 +61,7 @@ sections:
       text: |
         ## Koko oppikirja
 
-        [📖 Lataa koko Patologian perusteet -oppikirja (PDF); (TULOSSA)](/uploads/patologian-perusteet-koko-kirja.pdf)
+        [📖 Lataa koko Patologian perusteet -oppikirja (PDF); (Ei täysin valmis -- PATO2:n osio tarkistamaton ja hieman puutteellinen)](/uploads/Patologian_perusteet_Not_Ready.pdf)
 
         *Koko oppikirja sisältää kaikki 19 kappaletta ja niiden kuvat yhdessä tiedostossa.*
 
@@ -285,6 +287,16 @@ sections:
               </ul>
             </div>
           </div>
+          <div class="chapter-card">
+            <div class="chapter-title">Kappale 11: Maksan, sappiteiden ja haiman patologia</div>
+            <div class="video-list">
+             Opetusvideot:
+              <ul>
+                <li><a href="https://youtu.be/R3eizNSb14s?si=ExGNEKinihc-brI9">11.1. Maksa I (ikterus)</a></li>
+              </ul>
+            </div>
+          </div>
+
 
         
     design:
