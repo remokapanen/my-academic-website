@@ -73,3 +73,29 @@ Suosittelen todella vahvasti TYKS Mäntymäen sydänosaston amanuenssuuria, tosi
 ---
 
 ... 
+
+
+Hei kaikille!
+
+Teillä taitaa olla patologia nyt alkamassa, niin ilmoitan projektini olemassaolosta. Olen siis tehnyt patologian kurssin itseopiskeluun soveltuvan kirjan (ei ihan kokonaan valmis) ja sen läpikäyviä opetusvideoita, jotka kaikki löytyy linkattuina nettisivuilleni https://remokapanen.com/ Patologian perusteet-alasivulle. Tällä hetkellä Pato1 on valmis näiden suhteen.
+
+Olen myös tehnyt kaikista aiheista valmiit Anki-kortit, joiden tarkoitus on nopeuttaa opiskelua, sillä monilla ihmisillä suurin Ankin käyttöä rajoittava tekijä on omien korttien tekemiseen kuluva aika eikä omien korttien tekemisestä ole myöskään todettu olevan kovinkaan paljoa hyötyä retention kannalta. LL-opiskelijoille kortteja myös löytyy kaikista tulevista kursseistanne (C4:n kortit eivät ihan vielä kaikki valmiita, mutta C5 eteenpäin teillä tulee olemaan jokaisesta kurssista valmis paketti ja myös lukuvinkit lukukausille nettisivuilla; uudelleenrakennettuja tärppejä myös löytyy C7-lukuvuodesta eteenpäin). Kortit on koottu jatkuvasti päivittyvään Ranki-nimiseen pakkaan ja ohjeet pakan käyttöönottoon löytyy Ranki-alasivulta: https://remokapanen.com/ranki/ . Pakan on ladannut jo yli 320 ihmistä ja toivottavasti siitä on hyötyä teillekin nyt ja tulevaisuudessa. Jos et osaa Ankia käyttää ollenkaan tai haluat vinkkejä asetuksiin, niin olen tehnyt hyvin alkukantaisen oppaan aiheesta: https://remokapanen.com/anki/ .
+
+Mikroskopointikortit ovat erillisenä kokonaisuutenaan nettisivuille linkattuna. 
+
+Jos tulee mitään kysyttävää tai ilmenee ongelmia materiaalien kanssa, niin laittakaa rohkeasti viestiä! Jos haluaa antaa anonyymisti palautetta/parannusehdotuksia yms, niin voi näin tehdä tämän formsin (https://docs.google.com/forms/d/e/1FAIpQLSd9Rj6I3uain3cZAC0dViLj6ErHSJQv5cIXR1aBf6Q9QstvcQ/viewform?usp=sharing&ouid=112689903880978617225) kautta. ps. tiedän, että alkupään videot ovat hieman heikkoja sekä äänenlaadultaan että puhetyylini suhteen, korjaan ne joskus ehtiessäni.
+
+Yst. terv.
+Remo Kapanen, Calidus
+
+
+----
+
+
+Tyypilliseen tapaan taas koottu lastentautiopin tärpit gitbookiksi: https://lastentarpit.netlify.app/ . Laitan tän nyt tänne yhteisryhmään, niin toinenkin kurssinpuolisko tietää sitten tämän olemassaolosta. 
+
+Ja tänne (https://docs.google.com/document/d/1M6I5opoDohxKKGF0XjsLyv3S3-lXLgX1nxfoS86WTUI/edit?usp=sharing) voi sitten laittaa uusia tärppejä mitä exam-tenteissä ilmenee, niin päivittelen ne kirjaan. 
+
+  
+
+

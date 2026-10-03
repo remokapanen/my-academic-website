@@ -29,3 +29,7 @@ Wikin tärpit ovat varsinkin C7-luvukaudesta eteenpäin aika heikkoja, koska vas
 - [Neurotieteet](https://neurotarpit.netlify.app/)
 - [Psykiatria](https://psykatarpit.netlify.app/)
 - [Oikeuslääketiede](https://oikeuslaaketieteentarpit.netlify.app/)
+
+## C9 
+
+- [Lastentautioppi](https://lastentarpit.netlify.app/)
